@@ -1,0 +1,309 @@
+categories are signified using ▮▮▮▮ ### == - in that order
+
+everything in here has been tested to be true (unless specified otherwise) but things do change and i do make mistakes so test things yourself and tell if something's wrong or should be added
+to me taunts are the ones in the hand wave menu and emotes are the /e commands, but i used to use them interchangeably so just assume if you see emote that i mean taunt (except for the emotes list of course)
+
+emojis ▮▮▮▮
+⑨
+👍
+👎
+😳
+🤨
+🤮
+😩
+😂
+😎
+🤓
+🤔
+😭
+😈
+💀
+📸
+🗿
+👋
+ᗜˬᗜ (fumo faces dont work in roblox)
+ᗜ˰ᗜ
+ᗜ_ᗜ
+ᗜωᗜ
+ᗜ‿ᗜ
+՞(ᗜˬᗜ)՞
+
+copypaste text ▮▮▮▮
+<stroke color="#596fee" thickness="99" joins="miter">⑨</stroke>
+<font color="#596fee"><stroke color="#ffffff" thickness="99" joins="miter">⑨</stroke></font>
+<font color="#1bbffa"><stroke color="#596fee" thickness="10" joins="miter">baka</stroke></font>
+<font color="#d6ab33"><stroke color="#ebdd4b" thickness="14">cheesu</stroke></font>
+<font color="#de9590"><stroke color="#047d67" thickness="7">good morning</stroke></font>
+<font face="Kalam" color="#fbff08"><stroke color="#1c50fc" thickness="5">bnuuyy</stroke></font>
+<font color="#a9f7fc"><stroke color="#189df5" thickness="5">doki doki waku waku</stroke></font>
+<font color="#fc90a2"><stroke color="#a25afa" thickness="7">hauu</stroke></font>
+<font color="#b174fc"><stroke color="#faafbb" thickness="7">mmm!</stroke></font>
+<font face="Michroma"><stroke thickness="5" color="#36d19b">myone</stroke></font>
+<font color="#000000"><stroke color="#ffff00" thickness="7">ze~</stroke></font>
+<font color="#000000"><stroke color="#ffff00" thickness="7">but you dodged it</stroke></font>
+<font face="Creepster"><stroke color="#ff1717" thickness="5" joins="miter">boo</stroke></font>
+<font color="#90b09b"><stroke color="#dfff78" thickness="6">Shrimp fry</stroke></font>
+<font color="#faef19" face="LuckiestGuy">#1</font><font face="LuckiestGuy"> Victory Royale!</font>
+tic tac toe - | |  ---------------  | |  ---------------  | | 
+
+copypaste text for friend ignore lol ▮▮▮▮
+derpy your opinion doesn't matter you eat cold creamy mayonnaise for fun
+bombproofhorse (reference is that, in jackbox we played fibbage, and the question was something along the lines of "book voted to be oddest book title is 'how to bomb proof your ____'" and the answer was apparently horse, which completely destroyed our sense of how weird the answers in that game would be)
+
+useful links ▮▮▮▮
+the game itself - https://www.roblox.com/games/6238705697/Become-Fumo
+okuechi's twitter (creator of become fumo) - https://twitter.com/OkuechiRblx
+unofficial become fumo trello - https://trello.com/b/7ikbU9Um/unofficial-become-fumo-trello
+guide to all badges playlist (nil and when they cry badges have more to know about, check first two notes and tidbits at bottom of document) https://www.youtube.com/watch?v=aHObGJLvcRM&list=PLmSWvMs5a_e2sEmuIC6SACWjotG_pVU2L
+become fumo voicelines - https://www.youtube.com/watch?v=gdhnxAj97LA
+introduction to touhou - https://www.youtube.com/watch?v=2cOuzIbxPOk
+all touhou characters - https://www.youtube.com/watch?v=mxzytm_o_gg
+how to english patch steam touhou games - https://www.youtube.com/watch?v=TOp38zPVaZs
+how to pronounce cirno - https://www.youtube.com/watch?v=ikjoMarYlcE
+what gyates are - https://www.youtube.com/watch?v=A-nl3wXtx_I
+rich text markup (used to make most of copypaste text section) - https://create.roblox.com/docs/building-and-visuals/ui/rich-text - and - https://create.roblox.com/docs/reference/engine/enums/Font - and - https://create.roblox.com/docs/reference/engine/classes/UIStroke - and - https://www.google.com/search?q=color+picker
+
+fun glitches ▮▮▮▮
+soul edge trail - attack and unequip soul edge while it is swinging
+walking emote ice - use a still emote, eat ice cream until frozen (preserves the emote's original state and can be used to make up for the shortcomings of rod glitches)
+super speed/jumpable emote - do any moving taunt while touching grass
+middair stop - do a still emote middair after being hit by the comedy machine 3000 or while on top of someone
+constantly flying - hit someone with pink sword, person that was hit leaves game just before hitting the ground, then get hit to move again
+become fish - use rocket jumper in water (for consistent setup, swim up against a wall with a ledge above it so that you look as if you were standing on normal ground, and shoot directly between your legs at the wall)(this can be done in gm_construct area)(btw if you wait to float up to the top in small pool then use sit button you often land upside down)(also using rod will stop your animation only for others, you cant see the change)
+super speed hoverboard - moving emote then equip hoverboard
+high hoverboard (stackable) - have 2 hoverboards, switch between them to gain height and lose speed
+slowfall hoverboard - using rocket jumper and equipping hoverboard cause you to float a much higher up and fall a lot slower
+hoverboard smuggling - method 1(better but requires friend). in the gm_construct, have the hoverboard in your inventory but not equipped, stand against the door, have someone potemkin buster you and they exit the area (timing for grab is to click to grab just as circle finishes filling)(grabbing a small character requires the grabber to sit first)
+		     - method 2(worse but doesnt require friend). reset character in block world (door in campfire cave), go to scarlet devil mansion (red portal on pillar next to bouncy house), on the platform area that has the inu-sakuya box go to the opposite end of inu-sakuya, use a moving emote and launch yourself far into the ends of the void until you find block area again, clip into the area, equip hoverboard while going through door (if you re-equip hoverboard afterwards you die)
+ice speed - using a moving taunt on the ice in the whiterock village makes you move super fast
+hungry speed - use shrimp fry, wait until youve started smoking to touch grass (emoting fixes any problems and its stackable but decreases jump height)
+funny voice - going really far out and causing the usual roblox bugginess also affects tts, can maybe be done in gmod area with inu sakuya and rocket jumper
+straight legs - equipping then unequipping fishing rod while laying down will make your legs seem straightened out to others
+space buddies - using rocket jumper as inu-sakuya makes you go upwards, can be stopped by sitting
+clipping - still taunt (mainly rock paper scissors) can be used to clip someone through a thin wall
+super explosion - use still taunt at comedy machine 3000 and get hit over and over again to get dense and loud explosion
+permant marisad - say "but you dodged it!" or "marisad" as marisa twice in quick succesion (copy and paste recommended if you type slow)(only turns off on character change or reset)
+sky camera - reset while being hit by the pink sword, camera will separate from your body and stay wherever you died at and your body wont despawn, change character to fix(can be to same character you already are)
+high jump - sit and jump at the same time but make sure sit happens first, you will be to reach weird places or use shortcuts
+
+fishing rod glitches ### WIP CATEGORY
+had to do it to em/goku drip pose - cast fishing rod and unequip the rod as fast as you can
+walking taunt rod version - use taunt, unequip rod
+walking fishing  - fish, use a moving emote, stop emoting
+walking fishing chair
+
+invincibility - literally just hold the rod
+confirmed rod invincibility affects ==
+totsugeki
+chair
+soul edge
+giga sword
+laser gun
+buster gauntlets
+lightning
+chainsaw
+
+badges ▮▮▮▮
+memento mori - no character
+nil - madotsuki
+when they cry - rika furude
+in due time - inu sakuya
+dimensional duo - tsubakura, yabusame
+nano desu☆ - hanyuu
+dreaming - urotsuki
+
+special character info ▮▮▮▮
+
+non-badge special characters ==
+chistmas nero - join game during christmas
+
+characters with alternates ==
+keine - Keine EX
+reisen - "Impreishable Night"
+youmu - Sword Saint
+
+specific character effects ==
+inu sakuya - has reversed gravity when using rocket jumper (glitch maybe? added to glitches too just in case)
+madotsuki - spawns with a unique weapon, the knife
+sagume - puts parenthesis around everything you say
+sekibanki - saying head drops your head
+urotsuki - spawns with a unique weapon, the chainsaw
+
+voice lines ▮▮▮▮
+
+specifics on how voice lines work ###
+Voice lines can effectively be split into two categories, character lines and species lines
+Character lines are unique to that character, while species lines are shared between characters of the same species or animal
+You can say all the species lines at the same time, but only one character line at a time
+side note patchouli and koishi dont follow this rule and can say all their lines at the same time for some reason, maybe they have their lines set as species lines?
+for example -
+aya can do chirp and ayaya at the same time
+marisa can NOT do ze~ and marisad at the same time
+urotsuki can NOT do any of their voicelines at the same time (no!, don't!, and stop it!)
+kyouko can do wann, awoo, and yahoo at the same time, and wann, awoo, and good morning at the same time, but NOT wann, awoo, yahoo, and good morning
+
+due to this, wannawoo isnt its own thing, its just a combination people use a lot and doesnt need to be included
+
+⬆ means higher pitched
+
+species ###
+dogs ==
+momiji, kagerou - awoo
+kyouko, aunn - awoo ⬆
+inu sakuya - awoo ⬆⬆
+momiji, kagerou - wan (wann to get around censor)
+kyouko, aunn - wan ⬆
+inu sakuya - wan ⬆⬆
+bunnies ==
+rei' sen, reisen, ringo, seiran - bnuuy
+tewi - bnuuy ⬆
+cats ==
+chen, mike, orin - meow/nya
+chen, mike, orin - hiss
+birds ==
+okuu, mystia, aya, megumu, hatate - chirp
+bugs ==
+wriggle, eternity larva - we have come for your nectar
+ghosts ==
+mima, yuyuko - boo
+kogasa - boo ⬆
+vampires ==
+flandre, remilla - uuu
+
+character ### (in order of character alphabetical order)
+aya - ayaya
+cirno - baka
+christmas nero - padoru padoru
+doremi - bruh
+eiki - danzai
+hanyuu - hauu
+jo-on - chaching
+kagerou - howl
+kaguya - mokou!
+keiki - oh create
+koishi - teehee
+koishi - croissant
+koishi - shrimp fry
+kutaka - cluck
+kyouko - yahoo
+kyouko - good morning
+madotsuki - no good
+madotsuki - impossible
+marisa - ze~
+marisa - but you dodged it/marisad
+meiling - jaooo
+mokou - kaguya!
+nazrin - naides
+okina - life has many doors
+okuu - unyu
+patchouli - mmm!
+patchouli - mukyu
+raiko - badumtss
+rika furude - nipah (snipah to get around censor)
+rumia - so nanoka
+saki - neigh
+seiga - doki doki waku waku
+shion - spare change
+suika - japanese goblin
+suwako - ribbit
+suwako - croak (maybe, some people say it was a line, some say kero was a line, its confusing, doesnt seem to work right now though)
+toutetsu - *scream
+toutetsu - only a spoonful
+urotsuki - no!
+urotsuki - don't!
+urotsuki - stop it!
+urumi - moo
+yacchie - gao gao
+yamame - hiss
+yoshika - gwa gwa (gwa gwaaaaa to get around censor)
+youmu - myon
+
+removed lines###
+doremi - buh
+
+voice lines with expressions###
+hanyuu - hauu
+marisa - but you dodged it!/marisad
+marisa - ze~
+patchouli - mmm!
+rika furude - nipah
+
+emotes ▮▮▮▮ 
+/e cheer
+/e point
+/e wave
+/e laugh
+/e dance
+/e dance2
+/e dance3
+/e abunai
+/e sonanoka
+/e caramell
+/e scarletpolice
+/e swag
+/e penguin
+/e spooky
+/e nanodesu
+/e california
+/e orin
+/e september
+/e chirumiru
+/e nekomikoreimu
+
+items ▮▮▮▮
+the maximum amount of items you can carry is 20
+
+misc ==
+bike
+fishing rod
+lantern
+dwaggy
+hoverboard(secret areas only unless smuggled)
+key(for dreaming badge)
+
+food ==
+ice cream
+soda
+fried rice
+burger
+cheese
+japari bun
+bread
+shrimp fry(fries you)
+lettuce(funny ragoll kills you lol)
+french fries
+spicy chicken nuggets
+
+weapons ==
+baseball
+bat
+totsugeki
+chair
+soul edge
+giga sword
+laser gun
+buster gauntlets
+lightning
+rocket jumper
+murasama
+knife(madotsuki only)
+chainsaw(urotsuki only)
+snow balls(in whiterock village only)
+
+notes and tidbits▮▮▮▮
+the big crystal and the small crystal for the badges both make sounds when they appear and when they disappear (which can be used to tell where they spawn), also the spots for the crystal have changed from the video in the useful links
+(crackpot theory)the train you use to get the nil badge has an invisible hitbox that you can find by running along the track (might require anti grief off), it's very wonky and teleports you around, but i think it is the actual hitbox for getting teleported, so assuming this is correct, if you can have a friend stand on top of it and time it based off of where your friend is standing instead of the front of the train, you should always get teleported
+the super speed/jumpable emote glitch was changed to be slower but more controllable in the halloween 2022 update
+the had to do it to em/goku drip pose glitch affects all animations, seriously, try out everything that has an animation
+the hungry speed glitch can be done multiple times for more speed but decreased jump height, eventually you cant jump at all, so you can use the sit button to get out of chairs and stand up again
+urotsuki uses a different sound for anti grief toggle, ive heard people say that its because the sound came from yume nikki, so since urotsuki is from yume 2kki, it uses the sounds from that instead
+during november there was a door next to the changelogs board that had 202 on it, the door lead to a spooky bedroom that had fixed camera angles, i know it was a reference to an old horror game, but forgot which one
+the floor is a grid... im sure it seems obvious when i say it but i doubt many people really looked at it and conciously saw the grid
+when using garmond font for funni text, if you put two a's next to eachother they compress into an a with a line above it
+the fishing rod cancels all animations when you unequip it, which is super wack and has some crazy applications in every aspect of the game
+spicy nuggets turn on the lights in the dark area of gm construct
+despite having cat ears and a tail, rika furude doesnt have cat voice lines
+backspace can be used to unequip items, which is good for the had to do it to em/goku drip pose glitch cause its easier to click then press backspace than to click, move to the unequip button, and click again
+the had to do it to em/goku drip pose will work no matter how early you do it, it can only fail if you do it too late
+
+fumo notes(this) is made by cinnikitty with help from the become fumo community
