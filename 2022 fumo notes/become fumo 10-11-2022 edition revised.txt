@@ -1,0 +1,168 @@
+emojis:
+⑨
+
+useful links:
+unofficial become fumo trello - https://trello.com/b/7ikbU9Um/unofficial-become-fumo-trello
+become fumo voicelines - https://www.youtube.com/watch?v=gdhnxAj97LA
+introduction to touhou - https://www.youtube.com/watch?v=2cOuzIbxPOk
+all touhou characters - https://www.youtube.com/watch?v=mxzytm_o_gg
+how to english patch steam touhou games - https://www.youtube.com/watch?v=TOp38zPVaZs
+how to pronounce cirno - https://www.youtube.com/watch?v=ikjoMarYlcE
+what gyates are - https://www.youtube.com/watch?v=A-nl3wXtx_I
+
+fun glitches:
+soul edge trail - attack and unequip soul edge
+had to do it to em - cast fishing rod and unequip the rod
+walking emote - equip fishing rod, use emote
+super speed/jumpable emote - touch grass and do emote
+middair stop - do a still emote middair after being hit by the comedy machine 3000 or while on top of someone
+
+
+badges:
+memento mori - no character
+nil - madotsuki
+when they cry - rika furude
+in due time - inu sakuya
+dimensional duo - tsubakura, yabusame
+nano desu☆ - hanyuu
+dreaming - urotsuki
+
+the big crystal and the small crystal for the badges both make sounds when they appear and when they disappear
+
+specific character affects:
+madotsuki - spawns with a unique weapon, the knife
+urotsuki - spawns with a unique weapon, the chainsaw
+sekibanki - saying head drops your head
+sagume - puts parenthesis around everything you say
+inu sakuya - has reversed gravity when using rocket jumper
+
+specifics on how multiple voicelines at the same time work:
+you can say all the species lines at the same time, but only one character line at a time
+for example: 
+aya can do chirp and ayaya at the same time
+marisa can NOT do ze~ and marisad at the same time
+urotsuki can NOT do any of their voicelines at the same time (no!, don't!, and stop it!)
+kyouko can do wann, awoo, and yahoo at the same time, and wann, awoo, and good morning at the same time, but NOT wann, awoo, yahoo, and good morning
+
+due to this, wannawoo isnt its own thing, its just a combination people use a lot and doesnt need to be included
+
+voice lines:
+yacchie - gao gao
+yoshiki - gwa gwa
+doremi - buh
+doremi - bruh
+rika furude - nipah
+cirno - baka
+flandre, remilla - uuu
+nazrin - naides
+momiji, kagerou - awoo
+kyouko, aunn - awoo (high)
+inu sakura - awoo (very high)
+momiji, kagerou - wann
+kyouko, aunn - wann (high)
+inu sakura - wann (very high)
+chen, mike, orin - meow/nya
+chen, mike, orin - hiss
+rei' sen, reisen, ringo, seiran - bnuuy
+tewi - bnuuy (high)
+patchouli - mukyu
+patchouli - mmm!
+kyouko - good morning
+kyouko - yahoo
+hanyuu - hauu
+toutetsu - *scream
+toutetsu - only a spoonfull
+marisa - ze~
+marisa - but you dodged it/marisad
+rumia - so nanoka
+eiki - danzai
+keiki - oh create
+madotsuki - no good
+madotsuki - impossible
+okuu - unyu
+christmas nero - padoru padoru
+jo-on - chaching
+saki - neigh
+yamame - hiss
+urumi - moo
+suwako - ribbit
+okina - life has many doors
+youmu - myon
+wriggle, eternity larva - we have come for your nectar
+koishi - teehee
+koishi - croissant
+koishi - shrimp fry
+shion - spare change
+suika - japanese goblin
+aya - ayaya
+kutaka - cluck
+seiga - doki doki waku waku
+okuu, mystia, aya, megumu, hatate - chirp
+kagerou - howl
+mima - boo
+kogasa - boo (high)
+meiling - jaooo
+raiko - badumtss
+mokou - kaguya!
+kaguya - mokou!
+urotsuki - no!
+urotsuki - don't!
+urotsuki - stop it!
+
+emotes: 
+/e cheer
+/e point
+/e wave
+/e laugh
+/e dance
+/e dance2
+/e dance3
+/e abunai
+/e sonanoka
+/e caramell
+/e scarletpolice
+/e swag
+/e penguin
+/e spooky
+/e nanodesu
+/e california
+/e orin
+
+items:
+the maximum amount of items you can carry is 20
+
+misc---
+bike
+fishing rod
+lantern
+dwaggy
+hoverboard(secret areas only)
+key(for dreaming badge)
+
+food---
+ice cream
+soda
+fried rice
+burger
+cheese
+japari bun
+bread
+shrimp fry(fries you)
+lettuce(kills you lol)
+french fries
+spicy chicken nuggets
+
+weapons---
+baseball
+bat
+anchor
+chair
+soul edge
+gigasword
+laser gun
+gauntlets
+lightning
+rocket jumper
+murasama
+knife(madotsuki only)
+chainsaw(urotsuki only)
