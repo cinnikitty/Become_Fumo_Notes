@@ -1,0 +1,199 @@
+categories are signified using : ### == - in that order
+
+emojis:
+⑨
+👍
+👎
+😳
+🤨
+😂
+😈
+💀
+
+useful links:
+okuechi's twitter (creator of become fumo) - https://twitter.com/OkuechiRblx
+unofficial become fumo trello - https://trello.com/b/7ikbU9Um/unofficial-become-fumo-trello
+become fumo voicelines - https://www.youtube.com/watch?v=gdhnxAj97LA
+introduction to touhou - https://www.youtube.com/watch?v=2cOuzIbxPOk
+all touhou characters - https://www.youtube.com/watch?v=mxzytm_o_gg
+how to english patch steam touhou games - https://www.youtube.com/watch?v=TOp38zPVaZs
+how to pronounce cirno - https://www.youtube.com/watch?v=ikjoMarYlcE
+what gyates are - https://www.youtube.com/watch?v=A-nl3wXtx_I
+
+fun glitches:
+soul edge trail - attack and unequip soul edge while it is swinging
+had to do it to em pose - cast fishing rod and unequip the rod very quickly after
+walking emote - equip fishing rod, use emote (or use emote before rod), unequip rod
+super speed/jumpable emote - do any moving emote while touching grass
+middair stop - do a still emote middair after being hit by the comedy machine 3000 or while on top of someone
+(untested)constantly flying - hit someone with pink sword, person that was hit leaves game during landing animation, then you get hit to move again
+walking fishing - fish, use the walk emote, sit, jump
+become fish - use rocket jumper in water
+
+badges:
+memento mori - no character
+nil - madotsuki
+when they cry - rika furude
+in due time - inu sakuya
+dimensional duo - tsubakura, yabusame
+nano desu☆ - hanyuu
+dreaming - urotsuki
+
+the big crystal and the small crystal for the badges both make sounds when they appear and when they disappear
+
+non-badge special characters:
+chistmas nero - join during christmas or december (unsure which one)
+
+specific character affects:
+madotsuki - spawns with a unique weapon, the knife
+urotsuki - spawns with a unique weapon, the chainsaw
+sekibanki - saying head drops your head
+sagume - puts parenthesis around everything you say
+inu sakuya - has reversed gravity when using rocket jumper
+
+specifics on how multiple voicelines at the same time work:
+you can say all the species lines at the same time, but only one character line at a time
+side note (patchouli doesnt follow this logic and can say both her character lines at the same time for some reason)
+for example: 
+aya can do chirp and ayaya at the same time
+marisa can NOT do ze~ and marisad at the same time
+urotsuki can NOT do any of their voicelines at the same time (no!, don't!, and stop it!)
+kyouko can do wann, awoo, and yahoo at the same time, and wann, awoo, and good morning at the same time, but NOT wann, awoo, yahoo, and good morning
+
+due to this, wannawoo isnt its own thing, its just a combination people use a lot and doesnt need to be included
+
+voice lines:
+⬆ means higher pitched
+
+species ###
+dogs ==
+momiji, kagerou - awoo
+kyouko, aunn - awoo ⬆
+inu sakura - awoo ⬆⬆
+momiji, kagerou - wann (actually wan but wan is censored)
+kyouko, aunn - wann ⬆
+inu sakura - wann ⬆⬆
+bunnies ==
+rei' sen, reisen, ringo, seiran - bnuuy
+tewi - bnuuy ⬆
+cats ==
+chen, mike, orin - meow/nya
+chen, mike, orin - hiss
+birds ==
+okuu, mystia, aya, megumu, hatate - chirp
+bugs ==
+wriggle, eternity larva - we have come for your nectar
+ghosts ==
+mima - boo
+kogasa - boo ⬆
+vampires ==
+flandre, remilla - uuu
+
+character ### (in order of character alphabetical order)
+aya - ayaya
+cirno - baka
+christmas nero - padoru padoru
+doremi - bruh
+eiki - danzai
+hanyuu - hauu
+jo-on - chaching
+kagerou - howl
+kaguya - mokou!
+keiki - oh create
+koishi - teehee
+koishi - croissant
+koishi - shrimp fry
+kutaka - cluck
+kyouko - yahoo
+kyouko - good morning
+madotsuki - no good
+madotsuki - impossible
+marisa - ze~
+marisa - but you dodged it/marisad
+meiling - jaooo
+mokou - kaguya!
+nazrin - naides
+okina - life has many doors
+okuu - unyu
+patchouli - mmm!
+patchouli - mukyu
+raiko - badumtss
+rika furude - nipah
+rumia - so nanoka
+saki - neigh
+seiga - doki doki waku waku
+shion - spare change
+suika - japanese goblin
+suwako - ribbit
+toutetsu - *scream
+toutetsu - only a spoonfull
+urotsuki - no!
+urotsuki - don't!
+urotsuki - stop it!
+urumi - moo
+yacchie - gao gao
+yamame - hiss
+yoshiki - gwa gwa (gwa gwaaaaa to get around censor)
+youmu - myon
+
+removed lines###
+(removed) doremi - buh
+
+emotes: 
+/e cheer
+/e point
+/e wave
+/e laugh
+/e dance
+/e dance2
+/e dance3
+/e abunai
+/e sonanoka
+/e caramell
+/e scarletpolice
+/e swag
+/e penguin
+/e spooky
+/e nanodesu
+/e california
+/e orin
+/e september
+
+items:
+the maximum amount of items you can carry is 20 (+1 if you have something equipped when you get a new item while full)
+
+misc==
+bike
+fishing rod
+lantern
+dwaggy
+hoverboard(secret areas only)
+key(for dreaming badge)
+
+food==
+ice cream
+soda
+fried rice
+burger
+cheese
+japari bun
+bread
+shrimp fry(fries you)
+lettuce(kills you lol)
+french fries
+spicy chicken nuggets
+
+weapons==
+baseball
+bat
+anchor
+chair
+soul edge
+gigasword
+laser gun
+gauntlets
+lightning
+rocket jumper
+murasama
+knife(madotsuki only)
+chainsaw(urotsuki only)
