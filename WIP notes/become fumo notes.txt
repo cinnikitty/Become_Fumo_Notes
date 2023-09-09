@@ -83,10 +83,13 @@ tests ==
 <stroke color="#596fee" thickness="99"><font size="1000">⑨</font><font size="1">⑨</font></stroke>
 
 voicelines ###
+
+finished ==
 baka - <font color="#1bbffa"><stroke color="#596fee" thickness="10" joins="miter">baka</stroke></font>
 naides - <font color="#666666"><stroke color="#383838" thickness="14">naides</stroke></font>
 cheesu - <font color="#d6ab33"><stroke color="#ebdd4b" thickness="14">cheesu</stroke></font> (i know its not a voiceline but i use it like one)
-good morning - <font color="#de9590"><stroke color="#147d77" thickness="7">good morning</stroke></font>
+good morning (kyouko) - <font color="#de9590"><stroke color="#147d77" thickness="7">good morning</stroke></font>
+good morning (sunshine color) - <font color="#f5e264"><stroke color="#faae3c" thickness="7">good morning</stroke></font>
 bnuuy (reisen) - <font face="Kalam" color="#f5ad90"><stroke color="#c36de3" thickness="5">bnuuyy</stroke></font>
 bnuuy (seiran) - <font face="Kalam" color="#d41e1e"><stroke color="#0a3ff0" thickness="5">bnuuyy</stroke></font>
 doki doki waku waku - <font color="#a9f7fc"><stroke color="#189df5" thickness="5">doki doki waku waku</stroke></font>
@@ -104,16 +107,23 @@ NOW! - <font color="#ffffff"><stroke color="#3ac5fc" thickness="6" transparency=
 spin spin - <font color="#c72626"><stroke color="#89e0b3" thickness="8">spin spin</stroke></font>
 ⇆ (spinning) - <font color="#c72626"><stroke color="#89e0b3" thickness="4">⇆</stroke></font> (not a voiceline)
 
+tests ==
+
 templates ###
 yell - <font weight="900"></font>
 super yell - <font weight="900"><b></b></font> 
 &lt; &gt; &quot; &apos; &amp; (these are the escape forms of punctuation, used when you need punctuation without messing up your text)
 
 other ###
+
+finished ==
 #1 Victory Royale - <font color="#faef19" face="LuckiestGuy">#1</font><font face="LuckiestGuy"> Victory Royale!</font>
 zzz - <font size="1">z</font><font size="2">z</font><font size="3">z</font>
 extended 💤 - <font size="1">💤</font><font size="3">💤</font>
 tic tac toe - | |  ---------------  | |  ---------------  | |
+
+tests ==
+<font family="rbxasset://fonts/families/PressStart2P.json">testing testing 123</font>
 <font family="rbxassetid://8764312106">testing testing 123</font>
 
 𐌜
@@ -289,7 +299,7 @@ urotsuki - stop it!
 urumi - moo
 yacchie - gao gao
 yamame - hiss
-yoshika - gwa gwa (gwa gwaaaaa if censored)
+yoshika - gwa gwa (@gwa gwa if censored)
 youmu - myon
 
 removed lines ###
@@ -306,20 +316,19 @@ santa nero - padoru padoru
 
 special character info ▮▮▮▮
 
-non-badge special characters (will refer to name of only player who owns it if name of character is unknown) ==
+non-badge special characters==
 amogus
 bernkastel
 bong bong
-osu! cirno - @CarrotsTilin only character
+osu! cirno
 santa nero
 serbal
 steve
 tanya
-urumi wrangler marisa - @ZorroBlast only character
-youkan - @bink1337 only character (@bink1337 said it was supposed to have baa voiceline but was never added)
-@11Denver22 only character
+urumi wrangler marisa
+youkan
 
-non-badge special character voice lines (will refer to name of player who owns it if name is unknown) ==
+non-badge special character voice lines ==
 amogus - amogus
 bernkastel - nipah
 santa nero - padoru padoru
