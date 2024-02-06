@@ -8,7 +8,7 @@ so heres things you should know if using these notes when new to the game:
 
 1. With the exception of the "beginner's guide ▮▮▮▮" category,
 entries wont be split into mulitple lines for ease of reading,
-so every line is its own entry and will need to be scrolled side to side to read entirely.
+so every line is its own entry and will need to be scrolled side to side to be read entirely.
 
 2. Other than the "beginner's guide ▮▮▮▮" and "pre-notes info ▮▮▮▮" categories,
 the categories are generally ordered from most often used to least used, top to bottom.
@@ -71,7 +71,7 @@ for font size tag, default text is size 40
 ⑨ ###
 
 finished ==
-blue ⑨ - <stroke color="#596fee" thickness="99" joins="miter">⑨</stroke>
+blue ⑨ - <stroke color="#596fee" thickness="99" joins="miter">⑨</stroke>   <stroke color="rgb(88,111,237)" thickness="99" joins="miter">⑨</stroke>
 bigger blue ⑨ - <stroke color="#596fee" thickness="99" joins="miter"><b>⑨</b></stroke>
 even bigger blue ⑨ - <font weight="900"><stroke color="#596fee" thickness="99" joins="miter">⑨</stroke></font>
 EVEN BIGGER blue ⑨ - <font weight="900"><stroke color="#596fee" thickness="99" joins="miter"><b>⑨</b></stroke></font>
@@ -88,7 +88,7 @@ finished ==
 baka - <font color="#1bbffa"><stroke color="#596fee" thickness="10" joins="miter">baka</stroke></font>
 naides - <font color="#666666"><stroke color="#383838" thickness="14">naides</stroke></font>
 cheesu - <font color="#d6ab33"><stroke color="#ebdd4b" thickness="14">cheesu</stroke></font> (i know its not a voiceline but i use it like one)
-good morning (kyouko) - <font color="#de9590"><stroke color="#147d77" thickness="7">good morning</stroke></font>
+good morning (kyouko) - <font color="#de9590"><stroke color="#147d77" thickness="7">good morning</stroke></font> (gets censored cause of the 14 in the stroke color so use <font color="#de9590"><stroke color="#1a7d77" thickness="7">good morning</stroke></font>)
 good morning (sunshine color) - <font color="#f5e264"><stroke color="#faae3c" thickness="7">good morning</stroke></font>
 bnuuy (reisen) - <font face="Kalam" color="#f5ad90"><stroke color="#c36de3" thickness="5">bnuuyy</stroke></font>
 bnuuy (seiran) - <font face="Kalam" color="#d41e1e"><stroke color="#0a3ff0" thickness="5">bnuuyy</stroke></font>
@@ -103,7 +103,8 @@ boo (mima) - <font face="Creepster" color="#3260c2"><stroke color="#3cc232" thic
 boo (tojiko) - <font face="Creepster" color="#288222"><stroke color="#92d68d" thickness="5">boo</stroke></font>
 boo (yuyuko) - <font face="Creepster" color="#fa96c5"><stroke color="#ced5ed" thickness="5">boo</stroke></font>
 shrimp fry - <font color="#90b09b"><stroke color="#dfff78" thickness="6">Shrimp fry</stroke></font>
-NOW! - <font color="#ffffff"><stroke color="#3ac5fc" thickness="6" transparency="0.35">Ϟ</stroke></font> (also not a voiceline but i also use it like one)
+lightning - <font color="#ffffff"><stroke color="#3ac5fc" thickness="6" transparency="0.35">Ϟ</stroke></font> (also not a voiceline but i also use it like one)
+<font color="#ffffff"><stroke color="#3ac75f" thickness="6" transparency="0.35">Ϟ</stroke></font>
 spin spin - <font color="#c72626"><stroke color="#89e0b3" thickness="8">spin spin</stroke></font>
 ⇆ (spinning) - <font color="#c72626"><stroke color="#89e0b3" thickness="4">⇆</stroke></font> (not a voiceline)
 
@@ -121,10 +122,19 @@ finished ==
 zzz - <font size="1">z</font><font size="2">z</font><font size="3">z</font>
 extended 💤 - <font size="1">💤</font><font size="3">💤</font>
 tic tac toe - | |  ---------------  | |  ---------------  | |
+okuu heart locket meme - Ϛ💛"💛 oguu... ❤
+alphabet said with tts part 1 - ae...be...ce...de...ee...ef...gee...eigch...ai...je...ke...ell.emm.enn.oh.pee
+alphabet said with tts part 2 - qu...ar...ess...tee...uu...vee...duh.bo.u...exs...y...ze
+^ the alphabet tts was made as reimu so it might not work as well for characters with significantly different voices
 
 tests ==
 <font family="rbxasset://fonts/families/PressStart2P.json">testing testing 123</font>
 <font family="rbxassetid://8764312106">testing testing 123</font>
+<hello/>
+<hello&/>
+<stroke color="#aefeba" thickness="10"><hello&/></stroke>
+<<stroke color="#aefeba" thickness="10">e/>hi<</stroke>e/>
+
 
 𐌜
 ⬆ above this line is a weird symbol that does weird things to chat, it is unicode U+1031C (from @VeysTheGreat), select both parts of the symbol
@@ -156,15 +166,15 @@ say an emote in chat to perform it (it wont work if sitting)
 fun glitches ▮▮▮▮
 soul edge trail - attack and unequip soul edge while its swinging (has red trail)
 walking taunt (ice cream version)- use a still taunt, eat ice cream until frozen (preserves the emote's original state and can be used to make up for the shortcomings of rod glitches)
-super speed/jumpable emote - touch grass then do any moving taunt
+super speed/jumpable taunt - touch grass then do any moving taunt
 middair taunt - do a still taunt while in the air after being hit by the comedy machine 3000 or while on top of top of someone, then have that person move away if doing second method
-flying pose - hit someone with giga sword, person that was hit leaves game just before hitting the ground, then get hit to move again
-become fish - use rocket jumper in water (for consistent setup, swim up against a wall with a ledge above it so that you look as if you were standing on normal ground, and shoot directly between your legs at the wall)(this can be done in gm_construct area)(btw if you wait to float up to the top in small pool then use sit button you often land upside down)(also using rod will stop your animation only for others, you cant see the change)
+flying pose - hit someone with giga sword, person that was hit leaves game just starting the ground slam, then get hit to move again
+become fish - use rocket jumper in water (for a consistent setup, swim up against a wall with a ledge above it so that you look as if you were standing on normal ground, and shoot directly between your legs at the wall)(this can be done in gm_construct area)(btw if you wait to float up to the top in small pool then use sit button you often land upside down)(also using rod will stop your animation only for others, you cant see the change)
 super speed hoverboard - moving taunt, equip hoverboard
 high hoverboard (stackable) - have 2 hoverboards, switch between them to gain height and lose speed
 slowfall hoverboard - using rocket jumper and equipping hoverboard makes you float much higher up and fall a lot slower
 hoverboard smuggling - method 1(better but requires help): in the gm_construct, have the hoverboard in your inventory but not equipped, stand against the door, have someone potemkin buster you and they exit the area (timing for grab is to click to grab just as circle finishes filling)(grabbing a small character requires the grabber to sit first)
-		     - method 2(worse but doesnt require help): reset character in block world (door in campfire cave), go to scarlet devil mansion (red portal on pillar next to bouncy house), on the platform area that has the inu-sakuya box go to the opposite end of inu-sakuya, use a moving emote with the hoverboard and launch yourself far into the ends of the void until you find block area again, clip into the area, equip hoverboard while going through door (if you re-equip hoverboard afterwards you die)
+		     - method 2(worse but doesnt require help): turn your graphics up to 10 or at least 9, reset character in block world (door in campfire cave), go to scarlet devil mansion (red portal on pillar next to bouncy house), go to inu sakuya box, use a moving emote with the hoverboard to launch yourself off end (the one that has a sort of red opening where there is no pillar)(you can start the board on the opposite end of the platform so you have a lot more speed which makes it faster to get there), then keep going forward until you find block area again, get above it and fall into the area (or unequip the board while above)(you lose control for a few seconds and face a specfic direction whenever you get brought back up to the top so go to the side of the area where you will be going towards in when you get brought to the top to make it way easier)(i tested and you cant use the high hoverboard glitch to get in cause once you get on top the roof is solid for some reason, though if you want to stand on top of bloc			     - method 2 continued - k world there you go), equip hoverboard while going through door (if you re-equip the hoverboard afterwards you die)
 ice speed - using a moving taunt on the ice in the whiterock village makes you move super fast
 shrimp speed - use shrimp fry, wait until youve started smoking to touch grass, moving taunt to fix (stacking decreases jump height)
 funny voice - going really far out and causing the usual roblox bugginess also affects tts, can maybe be done in gmod area with inu sakuya and rocket jumper
@@ -176,17 +186,20 @@ sky camera - reset while being hit by the pink sword, camera will separate from 
 high jump (sit-jump version) - sit and jump at the same time but make sure the sit happens first, the key to doing this consistently is to turn before and while youre jumping and hold down the space bar while in the air (or at least i think you should hold jump cause of the multiple jump sounds on success), also know that you only sit when you let go of the click
 high jump (item version) - either equipping the laser gun, soda, or doing the walking taunt glitch(either version)(this seems to work with the sit-jump version of high jump, letting you get just a tiny bit higher/mor consistent jump when combined)
 easy lay (from @fomufan564) - sit down, eat fries, touch grass
-(emote is intented) walking emote (from ▶ leautb) - moving taunt, hold laser gun or get stopped from moving by a wall, do an emote, turn on shiftlock (not required if using laser gun but needed for turning), hold s if done by walking into wall
-frozen in time (from @thenewrigob) - if on pc and not fullscreen, hold right click on the border at the top of the game window, your position will be frozen until you let go (this appear for others) and your animations will pause then resume when you unpause (this is client side only)
+(emote is intented) walking emote (from ▶ leautb) - moving taunt, unequip rod to break animation, hold laser gun or get stopped from moving by a wall, do an emote, turn on shiftlock (not required if using laser gun but needed for turning), hold s if done by walking into wall
+pause (from @thenewrigob) - if on pc and not fullscreen, hold right click on the border at the top of the game window, your position will be frozen until you let go (this appear for others) and your animations will pause then resume when you unpause (this is client side only)
 fry box hitbox (from ▶ leautb) - eating fries makes a hitbox that interacts with people that have anti grief off even if you have anti grief on (lets you push sitting people over and do funky stuff with the pushable ball, also when you mess with the ball it seems to desync it or smth)
 rotate seat (stackable)(from ▶ leautb) - person sitting on seat uses chair, person off of seat hits the person on the seat with chair
 laser gun weird shooting (from ▶ leautb) - after you use the rocket jumper (jumping and shooting the ground so you have smoke particles) you can shoot the laser gun in (probably) any position once before you have to do it again
 toy stealing (from ▶ leautb) - use buster gauntlets while at either the taiko drums or at time crisis 4 in the arcade
 slide decoy (from ▶ ruisudesu) - on top of slide, do still taunt or start fishing (only possible if the slide is next to water), slide down it, now you will appear to be at the bottom of the slide to others, if anyone interacts with you, you will teleport to the top of the slide, if you sit in a chair you will teleport to it for others, once you sit in a chair you are unable to sit in another one until you undo the taunt, once you undo the taunt you will appear to others that you teleport to wherever you are on your screen
 background change - method 1(from inside area you want): i'll (probably) come back and put these in some other time
-		  - method 2(from overworld): oh god how many versions have i put this off?
+		  - method 2(from overworld): oh god how many versions have i put this off? imma have to ask ruisu how to do this again cause no way can i find the recording lmao
 inu liftoff (from ▶ leautb) - lay on your back as inu sakuya and use the chair, you will fly upwards
 high control shrimp speed (from ▶ ruisudesu) - do shrimp speed glitch until you have the speed you want, then do the walking taunt (rod version) with a still taunt to have control over changing directions as if you were moving at a normal speed
+pipe bomb knockback deny - sitting quickly after being sent flying by a pipe bomb will stop you mid air, though you will still not be able to move for the remaining stun duration
+cabbage permanent ragdoll - (not fully understood method) open taunt menu, open inventory menu, equip cabbage, eat cabbage, then quickly start a taunt and click the sit button after dying
+controllable camera in taunt menu - open taunt menu, open inventory, close inventory
 
 fishing rod glitches ###
 had to do it to em/goku drip pose - cast fishing rod and unequip the rod as fast as you can
@@ -231,74 +244,72 @@ due to this, wannawoo isnt its own thing, its just a combination people use a lo
 ⬆ means higher pitched
 
 species ###
-dogs ==
-kagerou, momiji - awoo
-aunn, kyouko - awoo ⬆
-inu sakuya - awoo ⬆⬆
-kagerou, momiji - wan (wann to get around censor)
-aunn, kyouko - wan ⬆
-inu sakuya - wan ⬆⬆
-bunnies ==
-rei' sen, reisen, ringo, seiran - bnuuy
-tewi - bnuuy ⬆
-cats == (pitch has a wider range of variation for the same voiceline than usual for cats, dont make patterns where there arent)
-chen, mike, orin, shou - meow/nya
-chen, mike, orin, shou - hiss
 birds ==
 aya, hatate, megumu, mystia, okuu, tokiko - chirp
 bugs ==
 eternity larva, wriggle, yamame(from @Zen61nnnnnnn) - we have come for your nectar
-ghosts ==
-mima, tojiko, yuyuko - boo
-kogasa - boo ⬆
+bunnies ==
+rei' sen, reisen, ringo, seiran - bnuuy
+⬆ tewi - bnuuy
+cats == (pitch has a wider range of variation for the same voiceline than usual for cats, dont make patterns where there arent)
+chen, mike, orin, shou - meow/nya/ニャ
+chen, mike, orin, shou - hiss/ヒス
+dogs ==
+kagerou, momiji - awoo/アウ
+⬆ aunn, kyouko - awoo/アウ
+⬆⬆ inu sakuya - awoo/アウ
+kagerou, momiji - wan/ワン (wann to get around censor)
+⬆ aunn, kyouko - wan/ワン
+⬆⬆ inu sakuya - wan/ワン
+mima, tojiko, yuyuko - boo/ばあ
+⬆ kogasa - boo/ばあ
 vampires ==
 flandre, remilla - uuu
 
 character ### (in order of character alphabetical order)
 aya - ayaya
-cirno - baka
+cirno - baka/馬鹿
 doremi - bruh
 eiki - danzai
 hanyuu - hauu
-hina - kuru kuru/spin spin
+hina - kuru kuru/spin spin/くるくる
 jo-on - chaching
 kagerou - howl
-kaguya - mokou!
+kaguya - mokou!/妹紅!
 keiki - oh create/oh, create
 koishi - teehee
-koishi - croissant
+koishi - croissant/クロワッサン
 koishi - shrimp fry
 kutaka - cluck
 kyouko - yahoo
 kyouko - good morning
-madotsuki - no good
+madotsuki - no good/ダメだ (from @SpectreSoftware)
 madotsuki - impossible
 marisa - ze~
 marisa - but you dodged it/marisad
 meiling - jaooo
-mokou - kaguya!
+mokou - kaguya!/輝夜!
 nazrin - naides
 okina - life has many doors
-okuu - unyu
+okuu - unyu/うにゅ (jap version from @Marbs0)
 patchouli - mmm!
 patchouli - mukyu
 raiko - badumtss
-rika furude - nipah (snipah to get around censor)
-rumia - so nanoka
-saki - neigh
+rika furude - nipah/にぱ (snipah to get around censor)(jap version from @fomufan564)
+rumia - so nanoka/そーなのかー
+saki - neigh/ヒヒーン
 seiga - doki doki waku waku
 shion - spare change
 suika - japanese goblin
 suwako - ribbit
-suwako - croak (maybe, some people say it was a line, some say kero was a line, its confusing, doesnt seem to work right now though)
 toutetsu - *screa (not a typo, it doesnt need the m at the end)
 toutetsu - only a spoonful
 urotsuki - no!
 urotsuki - don't!
-urotsuki - stop it!
-urumi - moo
+urotsuki - stop it!/やめて (jap version from @Renko_Usami1)
+urumi - moo/モー
 yacchie - gao gao
-yamame - hiss
+yamame - hiss/ヒス
 yoshika - gwa gwa (@gwa gwa if censored)
 youmu - myon
 
@@ -306,13 +317,15 @@ removed lines ###
 doremi - buh
 
 voice lines with expressions/movements ###
+bernkastel - nipah/にぱ (jap version from @fomufan564)
 flandre, remilli - uuu
 hanyuu - hauu
 marisa - but you dodged it!/marisad
 marisa - ze~
 patchouli - mmm!
-rika furude - nipah
-santa nero - padoru padoru
+rika furude - nipah/にぱ (jap version from @fomufan564)
+santa nero - padoru padoru/パドルパドル (jap version from @KatLovesPink1213)
+steve - i hate real life
 
 special character info ▮▮▮▮
 
@@ -330,11 +343,12 @@ youkan
 
 non-badge special character voice lines ==
 amogus - amogus
-bernkastel - nipah
-santa nero - padoru padoru
+bernkastel - nipah/にぱ (jap version from @fomufan564)
+santa nero - padoru padoru/パドルパドル (jap version from @KatLovesPink1213)
 serbal - sugoi
 steve - hello young lady
 steve - i hate real life
+steve - oof
 tanya - kami
 urumi wrangler marisa - but you dodged it/marisad
 urumi wrangler marisa - whipcrack
@@ -343,7 +357,7 @@ urumi wrangler marisa - ze~
 
 characters with alternates ==
 keine - Keine EX
-reisen - "Impreishable Night"
+reisen - Impreishable Night
 youmu - Sword Saint
 
 special character effects ==
@@ -433,7 +447,7 @@ links ▮▮▮▮
 the game itself - https://www.roblox.com/games/6238705697/Become-Fumo
 okuechi's twitter (creator of become fumo) - https://twitter.com/OkuechiRblx
 unofficial become fumo trello - https://trello.com/b/7ikbU9Um/unofficial-become-fumo-trello
-guide to all badges playlist (some badges have more info, check beginning of notes and tidbits at bottom of document)(from ▶ Emerald Flame) - https://www.youtube.com/watch?v=aHObGJLvcRM&list=PLmSWvMs5a_e2sEmuIC6SACWjotG_pVU2L
+guide to all badges playlist (some badges have important info not in the playlist, check the badges section at the beginning of notes and tidbits section)(from ▶ Emerald Flame) - https://www.youtube.com/watch?v=aHObGJLvcRM&list=PLmSWvMs5a_e2sEmuIC6SACWjotG_pVU2L
 become fumo voicelines (from ▶ Last Gen Conor) - https://www.youtube.com/watch?v=QqAjGXUmaVA
 introduction to touhou (from ▶ gaijin hunter) - https://www.youtube.com/watch?v=2cOuzIbxPOk
 all touhou characters (from ▶ Octo da Trupa) - https://www.youtube.com/watch?v=mxzytm_o_gg
@@ -441,24 +455,26 @@ how to english patch steam touhou games (from ▶ ElephantT 엘리펀트T) - htt
 how to pronounce cirno (from ▶ Delta Pie) - https://www.youtube.com/watch?v=ikjoMarYlcE
 what gyates are (from ▶ Koischizo) - https://www.youtube.com/watch?v=A-nl3wXtx_I
 rich text markup (used to make most of copypaste text section) - https://create.roblox.com/docs/building-and-visuals/ui/rich-text - and - https://create.roblox.com/docs/reference/engine/enums/Font - and - https://create.roblox.com/docs/reference/engine/classes/UIStroke - and - https://www.google.com/search?q=color+picker
+how and which unicode characters are recognized in roblox - https://create.roblox.com/docs/reference/engine/libraries/utf8 - and - https://www.w3schools.com/charsets/ref_html_utf8.asp
 
 referenced youtube channels ###
-▶Emerald flame - https://www.youtube.com/@flameflake
-▶Last Gen Conor - https://www.youtube.com/@LastGenConor
-▶gaijin hunter - https://www.youtube.com/@gaijinhunter
-▶Octo da Trupa - https://www.youtube.com/@HyperVanilo
-▶ElephantT 엘리펀트T - https://www.youtube.com/@elephantt2077
-▶Delta Pie - https://www.youtube.com/@DeltaPie
-▶Koischizo - https://www.youtube.com/@Koischizo
-▶leautb - https://www.youtube.com/@leautb
-▶Ruisudesu YT - https://www.youtube.com/@ruisudesuyt9827
+▶ Emerald flame - https://www.youtube.com/@flameflake
+▶ Last Gen Conor - https://www.youtube.com/@LastGenConor
+▶ gaijin hunter - https://www.youtube.com/@gaijinhunter
+▶ Octo da Trupa - https://www.youtube.com/@HyperVanilo
+▶ ElephantT 엘리펀트T - https://www.youtube.com/@elephantt2077
+▶ Delta Pie - https://www.youtube.com/@DeltaPie
+▶ Koischizo - https://www.youtube.com/@Koischizo
+▶ leautb - https://www.youtube.com/@leautb
+▶ Ruisudesu YT - https://www.youtube.com/@ruisudesuyt9827
+▶ GuardianZET - https://www.youtube.com/@GuardianZET
 
 notes and tidbits ▮▮▮▮
 
 badges related ==
+WE NOW HAVE 100% CONFIMATION ON HOW TO GET NIL BADGE BY OKUECHI HIMSELF. in ▶ GuardianZET's video "Join me. Become Fumo." Okuechi essentially gives him a tour around become fumo including telling him how to get every secret character, and at 22:16 okeuchi explains how to get nil badge (https://youtu.be/5HfMfw-9Nmo?si=Ni9Ze13uq_xyvjZm&t=1336). literally the only requirements is that you stand on top of the block and reset, you dont need to sit, time of day doesnt matter, no timing required, its just a 10% chance of it working
 the big crystal and the small crystal for the badges both make sounds when they appear and when they disappear (which can be used to tell where they spawn), also the spots for the crystal have changed from the video in the useful links
-you can get up to the platform for the dreaming key by having someone else throw a pipe bomb, which is probably easier for mobile players players
-(unverified crackpot theory)the train you use to get the nil badge has an invisible hitbox that you can find by running along the track (might require anti grief off), it's very wonky and teleports you around, but i think it could be actual hitbox for getting teleported, so assuming this is correct, if you can have a friend stand on top of it and time it based off of where your friend is standing instead of the front of the train and all other conditions are correct, you should always get teleported
+you can get up to the platform for the dreaming key by throwing or having someone else throw a pipe bomb, which is probably easier for mobile players players
 
 glitch related ==
 the super speed/jumpable emote glitch was changed to be slower but more controllable in the halloween 2022 update
@@ -473,22 +489,25 @@ the toy stealing glitch seems to put the toys at their default spawnpoint, you c
 i tried using inu liftoff with an akyuu on top of me when there was a glitch that let akyuu collide with people while having anti grief on, i couldnt lift her up and it flipped me to face down
 slide decoy glitch stops you from bouncing in the bouncy castle and from going through the big crystal where hanyuu is, theres probably more interactions it stops though
 stealing the taiko sticks with the toy stealing glitch makes it easy to see the rotation of your arms
+the rotate seat glitch is what is used to mess up the train, unfortunately however, unlike normal seats which can be returned to normal by doing the glitch 4 times in total, the train cant be fixed because it rotates the path around you/the seat rather than around the center of the path, making it basically impossible to fix the train once broken.
 
 item related ==
 backspace can be used to unequip items
 (from @Endercreeper990) pipe bombs work on taunting players, can hit people through walls, and have wide enough range to hit people on top of a tree if thrown under it
-you can turn your giga sword into a knife by having someone leave after youve hit them with the sword (during the part in the animation where the sword is a knife), it resets next time you hit someone with that sword, also you get stuck when you do this so you need something to unstuck yourself, gloves fixes fully, any moving emote, fishing rod, or ice cream gets you out of the air, and
+you can turn your giga sword into a knife in two different ways - method 1 have someone leave after youve hit them with the sword (during the part in the animation where the sword is a knife), it resets next time you hit someone with that sword, also you get stuck when you do this so you need something to unstuck yourself which include, gloves (unable to jump), any moving emote (fixes fully), fishing rod, ice cream, or getting hit (fixes fully)
+								- method 2 pause when you hit someone with the pink sword and unpause after the animation finishes (animation is about 7 seconds)
 it takes 5 ice cream eats to get frozen
-you can only shoot the laser gun once while sitting, you have to re-sit to shoot it again
+you can only shoot the laser gun once while sitting, you have to re-sit to shoot it again1
 bike is useful for telling how close you are to the edge of something/if you will fall off, just turn sideways and you have a line down the middle of you
 the maximum amount of items you can carry is 20
+hitting a wall with the murasama can very often flip you directly updside down
 
 location related ==
 there are 2 holes in the invisible barrier in whiterock village, one on top of the hill surrounding the village at the top left side (if the looked at from above with the entrance at the bottom), and one big one in the sky cause the barrier only goes up so far
 
 other ==
 urotsuki uses a different sound for anti grief toggle, ive heard people say that its because the sound came from yume nikki, so since urotsuki is from yume 2kki, it uses the sounds from that instead
-during november there was a door next to the changelogs board that had 202 on it, the door lead to a spooky bedroom that had fixed camera angles, i know it was a reference to an old horror game, but forgot which one
+during november 2022 there was a silent hill reference in the form of a door next to the changelogs board that had 202 on it, the door lead to a spooky bedroom that had fixed camera angles
 the floor is a grid... im sure it seems obvious when i say it but i doubt many people really looked at it and conciously saw the grid
 when using garmond font for rich text, if you put two a's next to eachother they compress into an a with a line above it
 spicy nuggets turn on the lights in the dark area of gm construct
@@ -502,5 +521,6 @@ you can layer people inside eachother and make a la creatura by sitting on a sea
 you can also layer people inside eachother anywhere with some help by having one person stand still and do a still taunt over and over so the people that interact with them get put in the same spot
 bong bong, eiki, remilia, and yoshika all have unusual skin colors
 you can say /c system to talk in a muted chat, which lets you do commands silently(this works on all of roblox), i learned this when i played kohls admin house as a kid since the game was all about using commands (though people in that game were able to see your commands with /log and also you probably shouldnt play that game anymore cause its extremely out of date and probably vulneranble hacks that can harm your account)
+there have been 3 times okuechi has given out santa nero that i know of, once in christmas 2021 (i wasnt there for it but heard of it later), once right after the update that addeed the bisexual flag colors dimension (i was there and , 
 
 fumo notes(this) is made by cinnikitty with help from the become fumo community
