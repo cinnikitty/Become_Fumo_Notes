@@ -64,9 +64,11 @@ you can open emojis menu using windows key + period or semicolon, but these are 
 ᗜωᗜ
 ᗜ‿ᗜ
 ՞(ᗜˬᗜ)՞
+ᗜˬᗜ ᗜ˰ᗜ ᗜ_ᗜ ᗜωᗜ ᗜ‿ᗜ ՞(ᗜˬᗜ)՞
 
 copypaste text ▮▮▮▮
 for font size tag, default text is size 40
+roblox chat filter change ruined a lot of these (mainly colored ones) so be prepared for some trial and error to see what works 😭
 
 ⑨ ###
 
@@ -122,10 +124,13 @@ finished ==
 zzz - <font size="1">z</font><font size="2">z</font><font size="3">z</font>
 extended 💤 - <font size="1">💤</font><font size="3">💤</font>
 tic tac toe - | |  ---------------  | |  ---------------  | |
-okuu heart locket meme - Ϛ💛"💛 oguu... ❤
+okuu heart locket meme - Ϛ💛"💛 oguu.... ❤
 alphabet said with tts part 1 - ae...be...ce...de...ee...ef...gee...eigch...ai...je...ke...ell.emm.enn.oh.pee
 alphabet said with tts part 2 - qu...ar...ess...tee...uu...vee...duh.bo.u...exs...y...ze
 ^ the alphabet tts was made as reimu so it might not work as well for characters with significantly different voices
+text color inverter - <stroke color="#ffffff" thickness="1"><font color="#000000" size="8"></font></stroke> 
+head pat - <font size="7">( ´･･)ﾉ(._.`)</font> 
+ayo emoticon - ͠o   .͡o
 
 tests ==
 <font family="rbxasset://fonts/families/PressStart2P.json">testing testing 123</font>
@@ -135,9 +140,8 @@ tests ==
 <stroke color="#aefeba" thickness="10"><hello&/></stroke>
 <<stroke color="#aefeba" thickness="10">e/>hi<</stroke>e/>
 
-
 𐌜
-⬆ above this line is a weird symbol that does weird things to chat, it is unicode U+1031C (from @VeysTheGreat), select both parts of the symbol
+⬆ above this line is a weird symbol that does weird things to chat, it is unicode U+1031C (from @VeysTheGreat), select both parts of the symbol (it seems this no longer breaks in the same way, i think it would stack on top of itself but now it doesnt and you dont have a second piece to select)
 
 emotes ▮▮▮▮ 
 say an emote in chat to perform it (it wont work if sitting)
@@ -171,21 +175,23 @@ middair taunt - do a still taunt while in the air after being hit by the comedy 
 flying pose - hit someone with giga sword, person that was hit leaves game just starting the ground slam, then get hit to move again
 become fish - use rocket jumper in water (for a consistent setup, swim up against a wall with a ledge above it so that you look as if you were standing on normal ground, and shoot directly between your legs at the wall)(this can be done in gm_construct area)(btw if you wait to float up to the top in small pool then use sit button you often land upside down)(also using rod will stop your animation only for others, you cant see the change)
 super speed hoverboard - moving taunt, equip hoverboard
-high hoverboard (stackable) - have 2 hoverboards, switch between them to gain height and lose speed
+high hoverboard (stackable) - have 2 hoverboards, switch between them to gain height and lose speed (speed stays the same)
 slowfall hoverboard - using rocket jumper and equipping hoverboard makes you float much higher up and fall a lot slower
-hoverboard smuggling - method 1(better but requires help): in the gm_construct, have the hoverboard in your inventory but not equipped, stand against the door, have someone potemkin buster you and they exit the area (timing for grab is to click to grab just as circle finishes filling)(grabbing a small character requires the grabber to sit first)
-		     - method 2(worse but doesnt require help): turn your graphics up to 10 or at least 9, reset character in block world (door in campfire cave), go to scarlet devil mansion (red portal on pillar next to bouncy house), go to inu sakuya box, use a moving emote with the hoverboard to launch yourself off end (the one that has a sort of red opening where there is no pillar)(you can start the board on the opposite end of the platform so you have a lot more speed which makes it faster to get there), then keep going forward until you find block area again, get above it and fall into the area (or unequip the board while above)(you lose control for a few seconds and face a specfic direction whenever you get brought back up to the top so go to the side of the area where you will be going towards in when you get brought to the top to make it way easier)(i tested and you cant use the high hoverboard glitch to get in cause once you get on top the roof is solid for some reason, though if you want to stand on top of bloc			     - method 2 continued - k world there you go), equip hoverboard while going through door (if you re-equip the hoverboard afterwards you die)
+hoverboard smuggling
+ - method 1. (better but requires help): in the gm_construct, have the hoverboard in your inventory but not equipped, stand against the door, have someone potemkin buster you and they exit the area (timing for grab is to click to grab just as circle finishes filling)(grabbing a small character requires the grabber to sit first)
+ - method 2. (worse but doesnt require help): turn your graphics up to 10 or at least 9, reset character in block world (door in campfire cave), go to scarlet devil mansion (red portal on pillar next to bouncy house), go to inu sakuya box, use a moving emote with the hoverboard to launch yourself off end (the one that has a sort of red opening where there is no pillar)(you can start the board on the opposite end of the platform so you have a lot more speed which makes it faster to get there), then keep going forward until you find block area again, get above it and fall into the area (or unequip the board while above)(you lose control for a few seconds and face a specfic direction whenever you get brought back up to the top so go to the side of the area where you will be going towards in when you get brought to the top to make it way easier) [got forced wrapped, continued on next line]                                                                                                                                - method 2 continued; (i tested and you cant use the high hoverboard glitch to get in cause once you get on top the roof is solid for some reason, though if you want to stand on top of block world there you go), equip hoverboard while going through door (if you re-equip the hoverboard afterwards you die)
 ice speed - using a moving taunt on the ice in the whiterock village makes you move super fast
 shrimp speed - use shrimp fry, wait until youve started smoking to touch grass, moving taunt to fix (stacking decreases jump height)
 funny voice - going really far out and causing the usual roblox bugginess also affects tts, can maybe be done in gmod area with inu sakuya and rocket jumper
 space buddies - using rocket jumper as inu-sakuya makes you go upwards, can be stopped by sitting
 clipping - still taunt (mainly rock paper scissors) can be used to clip someone through a thin wall
 super explosion - use still taunt at comedy machine 3000 and get hit over and over again to get dense and loud explosion
-permant marisad - say "but you dodged it!" or "marisad" as marisa twice in quick succesion, fix with character change or reset (copy and paste recommended if you type slow)
+permant expression - say a voiceline that has a facial expression including "uuu" as remillia or flandre and "but you dodged it!"/"marisad" as marisa twice in quick succesion, fix with character change or reset (copy and paste recommended if you type slow)
 sky camera - reset while being hit by the pink sword, camera will separate from your body and stay wherever you died at and your body wont despawn, change character or rejoin to fix
 high jump (sit-jump version) - sit and jump at the same time but make sure the sit happens first, the key to doing this consistently is to turn before and while youre jumping and hold down the space bar while in the air (or at least i think you should hold jump cause of the multiple jump sounds on success), also know that you only sit when you let go of the click
 high jump (item version) - either equipping the laser gun, soda, or doing the walking taunt glitch(either version)(this seems to work with the sit-jump version of high jump, letting you get just a tiny bit higher/mor consistent jump when combined)
-easy lay (from @fomufan564) - sit down, eat fries, touch grass
+easy lay (from @fomufan564) - on back method: sit down, eat fries, quickly touch grass
+			    - on chest method: sit down, touch grass, eat fries
 (emote is intented) walking emote (from ▶ leautb) - moving taunt, unequip rod to break animation, hold laser gun or get stopped from moving by a wall, do an emote, turn on shiftlock (not required if using laser gun but needed for turning), hold s if done by walking into wall
 pause (from @thenewrigob) - if on pc and not fullscreen, hold right click on the border at the top of the game window, your position will be frozen until you let go (this appear for others) and your animations will pause then resume when you unpause (this is client side only)
 fry box hitbox (from ▶ leautb) - eating fries makes a hitbox that interacts with people that have anti grief off even if you have anti grief on (lets you push sitting people over and do funky stuff with the pushable ball, also when you mess with the ball it seems to desync it or smth)
@@ -198,11 +204,15 @@ background change - method 1(from inside area you want): i'll (probably) come ba
 inu liftoff (from ▶ leautb) - lay on your back as inu sakuya and use the chair, you will fly upwards
 high control shrimp speed (from ▶ ruisudesu) - do shrimp speed glitch until you have the speed you want, then do the walking taunt (rod version) with a still taunt to have control over changing directions as if you were moving at a normal speed
 pipe bomb knockback deny - sitting quickly after being sent flying by a pipe bomb will stop you mid air, though you will still not be able to move for the remaining stun duration
-cabbage permanent ragdoll - (not fully understood method) open taunt menu, open inventory menu, equip cabbage, eat cabbage, then quickly start a taunt and click the sit button after dying
-controllable camera in taunt menu - open taunt menu, open inventory, close inventory
+cabbage permanent ragdoll (couldnt replicate on 2024-05-18) - (inconsistent, will likely work 1/10 tries) eat cabbage, then sit right after dying
+controllable camera in menu - open any menu, open a second menu, close second menu
+low hover (from ▶ ruisudesu) - swim on to slope in the pool and go to the middle of the second lowest tile (you can go up or down the slope to adjust how high above the ground you hover), hold jump then equip hoverboard (using hoverboard while in the water has a possibiliy of sending you flying straight upwards, if this happens and you want to attempt to get back safely then unequip the board as soon as possible, then use the high hoverboard glitch to stop you from flying upwards and let yourself fall back into the main area, hopefully you will land in it and not beside it or on top of it)
+sit rocket (from ▶ leautb, taught by @marbs0) - shoot a rocket behind you, then quickly sit (you can make this easier by positioning the camera so the sit button is a bit behind you so you have less distance to move your mouse)(if you sit too early you wont be launched at all, and if you sit too late you will get launched then stop mid-air and fall down)
+seam walking (with @marbs0 and @yourmansenpai) (requires help) - use shiftlock in third person to find the seam between two solid objects (walls), get as close to the seam as you can and face it, then use rock paper scissors, if done correctly the person that interacts with you will end up between two walls, to bring a person into the seam while youre in the seam yourself is a bit more complicated (understatement of the century), if you simply rps while inside the seam, the person will end up stuck UNDER the wall instead of being inside the seam, so you need to be able to face along the seam while taunting, when you taunt it locks you facing that direction for others, so you have to be facing the correct direction when you active the taunt, the problem is that you cant click the taunt menu while shiftlocked or in first person (unless youre on mobile, rare mobile W), [got forced wrapped, continued on next line]                                                                                                      seam walking continued - the solution is to use ui navigation (toggled with \ and can be disabled as a feature in the settings, so check you that have it enabled if the keybind doesnt work),face the direction of the seam using either shiftlock or first person (shiftlock prefered since it lets you see through walls which lets you see what youre doing), toggle ui navigation on, use your wasd keys and enter to activate your rps taunt, the other person interacts with you and now youve left no ̶d̶w̶a̶r̶f fumo behind
+rocket clipping (from @anazook) - clip through objects under you by jumping as high as you can with the rocket jumper then sitting at the apex of the jump (just be sure the ground you clip into has an opening under it or youll just be stuck under the top layer of ground)
 
 fishing rod glitches ###
-had to do it to em/goku drip pose - cast fishing rod and unequip the rod as fast as you can
+had to do it to em/goku drip pose - cast fishing rod, then unequip the rod as fast as you can
 walking taunt (rod version) - use taunt, unequip rod
 walking fishing (taunt version) - fish, use a moving taunt, stop emoting
 walking fishing (chair version) - use chair, switch to rod, start fishing (lets you turn around normally unlike taunt version)
@@ -249,8 +259,8 @@ aya, hatate, megumu, mystia, okuu, tokiko - chirp
 bugs ==
 eternity larva, wriggle, yamame(from @Zen61nnnnnnn) - we have come for your nectar
 bunnies ==
-rei' sen, reisen, ringo, seiran - bnuuy
-⬆ tewi - bnuuy
+rei' sen, reisen, ringo, seiran - bnuuy/バニー (jap version from japanese become fumo wiki)
+⬆ tewi - bnuuy/バニー (jap version from japanese become fumo wiki)
 cats == (pitch has a wider range of variation for the same voiceline than usual for cats, dont make patterns where there arent)
 chen, mike, orin, shou - meow/nya/ニャ
 chen, mike, orin, shou - hiss/ヒス
@@ -263,55 +273,55 @@ kagerou, momiji - wan/ワン (wann to get around censor)
 ⬆⬆ inu sakuya - wan/ワン
 mima, tojiko, yuyuko - boo/ばあ
 ⬆ kogasa - boo/ばあ
-vampires ==
-flandre, remilla - uuu
 
 character ### (in order of character alphabetical order)
 aya - ayaya
 cirno - baka/馬鹿
 doremi - bruh
-eiki - danzai
+eiki - danzai/断罪 (jap version from japanese become fumo wiki)
+flandre - uuu
 hanyuu - hauu
 hina - kuru kuru/spin spin/くるくる
 jo-on - chaching
 kagerou - howl
 kaguya - mokou!/妹紅!
 keiki - oh create/oh, create
-koishi - teehee
+koishi - teehee/くすくす (jap version from japanese become fumo wiki)
 koishi - croissant/クロワッサン
-koishi - shrimp fry
-kutaka - cluck
-kyouko - yahoo
-kyouko - good morning
+koishi - shrimp fry/エビフライ (jap version from japanese become fumo wiki)
+kutaka - cluck/クックッ (jap version gets censored with seemingly no way to get around it)(jap version from japanese become fumo wiki)
+kyouko - yahoo/やほお (jap version from @Marbs0)
+kyouko - good morning/お早よう (jap version from japanese become fumo wiki)
 madotsuki - no good/ダメだ (from @SpectreSoftware)
-madotsuki - impossible
+madotsuki - impossible/無理
 marisa - ze~
 marisa - but you dodged it/marisad
 meiling - jaooo
 mokou - kaguya!/輝夜!
-nazrin - naides
+nazrin - naides/ないです
 okina - life has many doors
 okuu - unyu/うにゅ (jap version from @Marbs0)
 patchouli - mmm!
 patchouli - mukyu
 raiko - badumtss
 rika furude - nipah/にぱ (snipah to get around censor)(jap version from @fomufan564)
+remillia - uuu
 rumia - so nanoka/そーなのかー
-saki - neigh/ヒヒーン
-seiga - doki doki waku waku
+saki - neigh/ヒヒーン/ひひいん (2nd jap version from japanese become fumo wiki)
+seiga - doki doki waku waku/ドキドキ ワクワク (jap version from the japanese become fumo wiki)
 shion - spare change
-suika - japanese goblin
+suika - japanese goblin/じゃぱにーずごぶりん (jap version from the japanese become fumo wiki)
 suwako - ribbit
 toutetsu - *screa (not a typo, it doesnt need the m at the end)
 toutetsu - only a spoonful
-urotsuki - no!
-urotsuki - don't!
+urotsuki - don't!/やだ (jap version from the japanese become fumo wiki)
+urotsuki - no!/いや (jap version from the japanese become fumo wiki)
 urotsuki - stop it!/やめて (jap version from @Renko_Usami1)
 urumi - moo/モー
 yacchie - gao gao
 yamame - hiss/ヒス
 yoshika - gwa gwa (@gwa gwa if censored)
-youmu - myon
+youmu - myon/みょん (jap version from the japanese become fumo wiki)
 
 removed lines ###
 doremi - buh
@@ -377,8 +387,8 @@ bike
 fishing rod
 lantern
 dwaggy
-hoverboard(secret areas only unless smuggled)
-key(for dreaming badge)
+hoverboard (secret areas only unless smuggled)
+key (for dreaming badge)
 
 food ==
 ice cream
@@ -388,8 +398,8 @@ burger
 cheese
 japari bun
 bread
-shrimp fry(fries you)
-lettuce(funny ragoll kills you lol)
+shrimp fry
+lettuce (kills and ragdolls you)
 french fries
 spicy chicken nuggets
 
@@ -403,11 +413,11 @@ giga sword
 laser gun
 buster gauntlets
 lightning
-rocket jumper
+trolldier kit
 murasama
-knife(madotsuki only)
-chainsaw(urotsuki only)
-snow balls(in whiterock village only)
+knife (madotsuki only)
+chainsaw (urotsuki only)
+snow balls (in whiterock village only)
 
 my default loadout (in usual grab order) ==
 1 lightning
@@ -434,24 +444,23 @@ my default loadout (in usual grab order) ==
 badges ▮▮▮▮
 nil - madotsuki
 When They Cry - rika furude
-In Due Time - inu sakuya
-Memento Mori - no character
+In Due Time - inu-sakuya
+Memento Mori - no character awarded
 Dimensional Duo - tsubakura, yabusame
 Nano Desu☆ - hanyuu
-Ravager [UNOBTAINABLE] - ya cant get it
+Ravager [UNOBTAINABLE] - unobtainable
 Dreaming - urotsuki
 
-imo difficulty from easiest to hardest badge to get - memento mori (no character), in due time (inu sakuya), dreaming (urotsuki), nano desu (hanyuu), when they cry (rika furude), dimensional duo (tsubakara and yabusame), nil (madotsuki) nil switches place with dimensional duo if youre bad at obbys
+imo difficulty from easiest to hardest badge to get - memento mori (no character), in due time (inu sakuya), dreaming (urotsuki), nano desu (hanyuu), when they cry (rika furude), nil (madotsuki), dimensional duo (tsubakura and yabusame), nil switches place with dimensional duo if youre impatient or super unlucky
 
 links ▮▮▮▮
 the game itself - https://www.roblox.com/games/6238705697/Become-Fumo
 okuechi's twitter (creator of become fumo) - https://twitter.com/OkuechiRblx
 unofficial become fumo trello - https://trello.com/b/7ikbU9Um/unofficial-become-fumo-trello
-guide to all badges playlist (some badges have important info not in the playlist, check the badges section at the beginning of notes and tidbits section)(from ▶ Emerald Flame) - https://www.youtube.com/watch?v=aHObGJLvcRM&list=PLmSWvMs5a_e2sEmuIC6SACWjotG_pVU2L
+guide to all badges playlist (some badges have important info not in the playlist, check the badges section at the beginning of notes and tidbits section)(from ▶ FlameFlake) - https://www.youtube.com/watch?v=aHObGJLvcRM&list=PLmSWvMs5a_e2sEmuIC6SACWjotG_pVU2L
 become fumo voicelines (from ▶ Last Gen Conor) - https://www.youtube.com/watch?v=QqAjGXUmaVA
 introduction to touhou (from ▶ gaijin hunter) - https://www.youtube.com/watch?v=2cOuzIbxPOk
 all touhou characters (from ▶ Octo da Trupa) - https://www.youtube.com/watch?v=mxzytm_o_gg
-how to english patch steam touhou games (from ▶ ElephantT 엘리펀트T) - https://www.youtube.com/watch?v=TOp38zPVaZs
 how to pronounce cirno (from ▶ Delta Pie) - https://www.youtube.com/watch?v=ikjoMarYlcE
 what gyates are (from ▶ Koischizo) - https://www.youtube.com/watch?v=A-nl3wXtx_I
 rich text markup (used to make most of copypaste text section) - https://create.roblox.com/docs/building-and-visuals/ui/rich-text - and - https://create.roblox.com/docs/reference/engine/enums/Font - and - https://create.roblox.com/docs/reference/engine/classes/UIStroke - and - https://www.google.com/search?q=color+picker
@@ -472,9 +481,14 @@ referenced youtube channels ###
 notes and tidbits ▮▮▮▮
 
 badges related ==
-WE NOW HAVE 100% CONFIMATION ON HOW TO GET NIL BADGE BY OKUECHI HIMSELF. in ▶ GuardianZET's video "Join me. Become Fumo." Okuechi essentially gives him a tour around become fumo including telling him how to get every secret character, and at 22:16 okeuchi explains how to get nil badge (https://youtu.be/5HfMfw-9Nmo?si=Ni9Ze13uq_xyvjZm&t=1336). literally the only requirements is that you stand on top of the block and reset, you dont need to sit, time of day doesnt matter, no timing required, its just a 10% chance of it working
+WE NOW HAVE 100% CONFIRMATION ON HOW TO GET NIL BADGE BY OKUECHI HIMSELF. in ▶ GuardianZET's video "Join me. Become Fumo." Okuechi essentially gives him a tour around become fumo including telling him how to get every secret character, and at 22:16 okeuchi explains how to get nil badge (https://youtu.be/5HfMfw-9Nmo?si=Ni9Ze13uq_xyvjZm&t=1336). literally the only requirements is that you stand on top of the block and reset, you dont need to sit, time of day doesnt matter, no timing required, its just a 10% chance of it working
 the big crystal and the small crystal for the badges both make sounds when they appear and when they disappear (which can be used to tell where they spawn), also the spots for the crystal have changed from the video in the useful links
-you can get up to the platform for the dreaming key by throwing or having someone else throw a pipe bomb, which is probably easier for mobile players players
+there are many ways to get up to the main dreaming key platform including:
+ - rocket jumper. use rocket jumper to jump up to the platform (very hard on mobile and can be difficult if you dont already know how to rocket jump)
+ - pipe bomb. throw or have someone else throw a pipe bomb, stand next to the pipe bomb on the side that is facing the direction of the platform
+ - totsugeki. 
+ - 
+ - 
 
 glitch related ==
 the super speed/jumpable emote glitch was changed to be slower but more controllable in the halloween 2022 update
@@ -494,9 +508,10 @@ the rotate seat glitch is what is used to mess up the train, unfortunately howev
 item related ==
 backspace can be used to unequip items
 (from @Endercreeper990) pipe bombs work on taunting players, can hit people through walls, and have wide enough range to hit people on top of a tree if thrown under it
-you can turn your giga sword into a knife in two different ways - method 1 have someone leave after youve hit them with the sword (during the part in the animation where the sword is a knife), it resets next time you hit someone with that sword, also you get stuck when you do this so you need something to unstuck yourself which include, gloves (unable to jump), any moving emote (fixes fully), fishing rod, ice cream, or getting hit (fixes fully)
-								- method 2 pause when you hit someone with the pink sword and unpause after the animation finishes (animation is about 7 seconds)
-it takes 5 ice cream eats to get frozen
+you can turn your giga sword into a knife in two different ways including:
+ - method 1 have someone leave after youve hit them with the sword (during the part in the animation where the sword is a knife), it resets next time you hit someone with that sword, also you get stuck when you do this so you need something to unstuck yourself which include, gloves (unable to jump), any moving emote (fixes fully), fishing rod, ice cream, or getting hit (fixes fully)
+ - method 2 pause when you hit someone with the pink sword and unpause after the animation finishes (animation is about 7 seconds)
+it takes 5 ice cream eats to get frozen, but seems to usually take longer to let you eat ice cream again if you click while it's on cooldown (similar to roblox chat spam protection), which will make it nearly impossible to get frozen unless you time it to click once it's off cooldown
 you can only shoot the laser gun once while sitting, you have to re-sit to shoot it again1
 bike is useful for telling how close you are to the edge of something/if you will fall off, just turn sideways and you have a line down the middle of you
 the maximum amount of items you can carry is 20
@@ -504,13 +519,13 @@ hitting a wall with the murasama can very often flip you directly updside down
 
 location related ==
 there are 2 holes in the invisible barrier in whiterock village, one on top of the hill surrounding the village at the top left side (if the looked at from above with the entrance at the bottom), and one big one in the sky cause the barrier only goes up so far
+spicy nuggets turn on the lights in the dark area of gm construct
+there is a hole in the corner of the barrier of the classic realm, you can fall through it and die, making the main area have the classic realm effects (though you can prob just reset and it do the same thing)
 
 other ==
 urotsuki uses a different sound for anti grief toggle, ive heard people say that its because the sound came from yume nikki, so since urotsuki is from yume 2kki, it uses the sounds from that instead
 during november 2022 there was a silent hill reference in the form of a door next to the changelogs board that had 202 on it, the door lead to a spooky bedroom that had fixed camera angles
-the floor is a grid... im sure it seems obvious when i say it but i doubt many people really looked at it and conciously saw the grid
 when using garmond font for rich text, if you put two a's next to eachother they compress into an a with a line above it
-spicy nuggets turn on the lights in the dark area of gm construct
 despite having cat ears and a tail, rika furude doesnt have cat voice lines
 the edges of the top of the rock you use to get onto the trees for rocket jumper are slopes, so you have to stand in the middle or you wont get enough height to get onto the tree
 santa nero was not given out on christmas 2022 :( no santa nero for me (edit: yes santa nero for me >:) )
