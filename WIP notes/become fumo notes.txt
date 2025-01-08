@@ -33,7 +33,7 @@ pre-notes info ▮▮▮▮
 everything in here has been tested to be true (unless specified otherwise), but things do change and i do make mistakes so, test things yourself and tell me if something's wrong or should be added
 to me taunts are the ones in the hand wave menu and emotes are the /e commands, but i previously used them interchangeably so, even though i cleaned it up everywhere i found, if something doesnt make sense to you then that could explain it
 i tried to figure out what the items were references to and named them accordingly, but i might be wrong on some or not know the reference, also can someone please tell me why i named the pink sword giga sword cause i cant find it anywhere and dont want to change it if it was right
-the cited person is just the first person that i learned something from, but i started crediting way late into the making of this so most of this cant be credited, sometimes i discover stuff independently of others so its hard to know if i learned from someone else or not
+the "by" person is whoever is known to have discovered something, the "from" person is the person that i learned something from if im not sure who discovered it, but i started crediting way late into the making of this so most of this cant be credited, sometimes i discover stuff independently of others so its hard to know if i learned from someone else or not
 if a person has a "▶" next to their name when cited that means they have a youtube channel (a youtuber being cited doesnt mean they have it in a video, sometimes they told or showed me it ingame), otherwise assume its their roblox username
 all channels that were cited or linked to will be in the "referenced youtube channels ###" section of the "links ▮▮▮▮"
 
@@ -68,7 +68,7 @@ you can open emojis menu using windows key + period or semicolon, but these are 
 
 copypaste text ▮▮▮▮
 for font size tag, default text is size 40
-roblox chat filter change ruined a lot of these (mainly colored ones) so be prepared for some trial and error to see what works 😭
+roblox chat filter changes ruins a lot of these (mainly colored ones) so be prepared for some trial and error to see what works 😭
 
 ⑨ ###
 
@@ -140,9 +140,6 @@ tests ==
 <stroke color="#aefeba" thickness="10"><hello&/></stroke>
 <<stroke color="#aefeba" thickness="10">e/>hi<</stroke>e/>
 
-𐌜
-⬆ above this line is a weird symbol that does weird things to chat, it is unicode U+1031C (from @VeysTheGreat), select both parts of the symbol (it seems this no longer breaks in the same way, i think it would stack on top of itself but now it doesnt and you dont have a second piece to select)
-
 emotes ▮▮▮▮ 
 say an emote in chat to perform it (it wont work if sitting)
 
@@ -167,22 +164,22 @@ say an emote in chat to perform it (it wont work if sitting)
 /e chirumiru
 /e nekomikoreimu
 
-fun glitches ▮▮▮▮
-soul edge trail - attack and unequip soul edge while its swinging (has red trail)
-walking taunt (ice cream version)- use a still taunt, eat ice cream until frozen (preserves the emote's original state and can be used to make up for the shortcomings of rod glitches)
+tech/fun glitches ▮▮▮▮
+soul edge trail - attack and unequip soul edge while it's swinging (has red trail)
+walking taunt (ice cream version)- use a still taunt, eat ice cream until frozen (preserves the emote's original state and can be used to make up for the shortcomings of fishing rod glitches)
 super speed/jumpable taunt - touch grass then do any moving taunt
 middair taunt - do a still taunt while in the air after being hit by the comedy machine 3000 or while on top of top of someone, then have that person move away if doing second method
 flying pose - hit someone with giga sword, person that was hit leaves game just starting the ground slam, then get hit to move again
-become fish - use rocket jumper in water (for a consistent setup, swim up against a wall with a ledge above it so that you look as if you were standing on normal ground, and shoot directly between your legs at the wall)(this can be done in gm_construct area)(btw if you wait to float up to the top in small pool then use sit button you often land upside down)(also using rod will stop your animation only for others, you cant see the change)
+become fish - use rocket jumper in water, (setup by @cinnikitty) for a consistent setup, swim up against a wall with a ledge above it so that you look as if you were standing on normal ground, and shoot directly between your legs at the wall(this can be done in gm_construct area)(btw if you wait to float up to the top in small pool then use sit button you often land upside down)(also using rod will stop your animation only for others, you cant see the change)
 super speed hoverboard - moving taunt, equip hoverboard
 high hoverboard (stackable) - have 2 hoverboards, switch between them to gain height and lose speed (speed stays the same)
 slowfall hoverboard - using rocket jumper and equipping hoverboard makes you float much higher up and fall a lot slower
 hoverboard smuggling
  - method 1. (better but requires help): in the gm_construct, have the hoverboard in your inventory but not equipped, stand against the door, have someone potemkin buster you and they exit the area (timing for grab is to click to grab just as circle finishes filling)(grabbing a small character requires the grabber to sit first)
- - method 2. (worse but doesnt require help): turn your graphics up to 10 or at least 9, reset character in block world (door in campfire cave), go to scarlet devil mansion (red portal on pillar next to bouncy house), go to inu sakuya box, use a moving emote with the hoverboard to launch yourself off end (the one that has a sort of red opening where there is no pillar)(you can start the board on the opposite end of the platform so you have a lot more speed which makes it faster to get there), then keep going forward until you find block area again, get above it and fall into the area (or unequip the board while above)(you lose control for a few seconds and face a specfic direction whenever you get brought back up to the top so go to the side of the area where you will be going towards in when you get brought to the top to make it way easier) [got forced wrapped, continued on next line]                                                                                                                                - method 2 continued; (i tested and you cant use the high hoverboard glitch to get in cause once you get on top the roof is solid for some reason, though if you want to stand on top of block world there you go), equip hoverboard while going through door (if you re-equip the hoverboard afterwards you die)
+ - method 2. (worse but doesnt require help) (by @zapona7): turn your graphics up to 10 or at least 9, reset character/change character in block world (door in campfire cave), go to scarlet devil mansion (red portal on pillar next to bouncy house), go to side of platform opposite of inu sakuya box, use a moving emote with the hoverboard to launch yourself off end (the one that has a sort of red opening where there is no pillar)(you can start the board on the opposite end of the platform so you have a lot more speed which makes it faster to get there), then keep going forward until you find block area again, get above it and fall into the area (or unequip the board while above)(you lose control for a few seconds and face a specfic direction whenever you get brought back up to the top so go to the side of the area where you will be going towards in when you get brought to the top to make it way easier) [got forced wrapped, continued on next line]                                                                 
+ - method 2 continued; (i tested and you cant use the high hoverboard glitch to get in cause once you get on top the roof is solid for some reason, though if you want to stand on top of block world there you go), equip hoverboard while going through door (if you re-equip the hoverboard afterwards you die)
 ice speed - using a moving taunt on the ice in the whiterock village makes you move super fast
 shrimp speed - use shrimp fry, wait until youve started smoking to touch grass, moving taunt to fix (stacking decreases jump height)
-funny voice - going really far out and causing the usual roblox bugginess also affects tts, can maybe be done in gmod area with inu sakuya and rocket jumper
 space buddies - using rocket jumper as inu-sakuya makes you go upwards, can be stopped by sitting
 clipping - still taunt (mainly rock paper scissors) can be used to clip someone through a thin wall
 super explosion - use still taunt at comedy machine 3000 and get hit over and over again to get dense and loud explosion
@@ -190,26 +187,31 @@ permant expression - say a voiceline that has a facial expression including "uuu
 sky camera - reset while being hit by the pink sword, camera will separate from your body and stay wherever you died at and your body wont despawn, change character or rejoin to fix
 high jump (sit-jump version) - sit and jump at the same time but make sure the sit happens first, the key to doing this consistently is to turn before and while youre jumping and hold down the space bar while in the air (or at least i think you should hold jump cause of the multiple jump sounds on success), also know that you only sit when you let go of the click
 high jump (item version) - either equipping the laser gun, soda, or doing the walking taunt glitch(either version)(this seems to work with the sit-jump version of high jump, letting you get just a tiny bit higher/mor consistent jump when combined)
-easy lay (from @fomufan564) - on back method: sit down, eat fries, quickly touch grass
-			    - on chest method: sit down, touch grass, eat fries
-(emote is intented) walking emote (from ▶ leautb) - moving taunt, unequip rod to break animation, hold laser gun or get stopped from moving by a wall, do an emote, turn on shiftlock (not required if using laser gun but needed for turning), hold s if done by walking into wall
-pause (from @thenewrigob) - if on pc and not fullscreen, hold right click on the border at the top of the game window, your position will be frozen until you let go (this appear for others) and your animations will pause then resume when you unpause (this is client side only)
+easy lay (from @fomufan564)
+ - on back method: sit down, eat fries, quickly touch grass
+ - on chest method: sit down, touch grass, eat fries
+pause (from @thenewrigob) - if on pc and not fullscreen, hold left click on the minimize, maximize, or close button, your position will be frozen until you let go (this appear for others) and your animations will pause then resume when you unpause (this is client side only)
 fry box hitbox (from ▶ leautb) - eating fries makes a hitbox that interacts with people that have anti grief off even if you have anti grief on (lets you push sitting people over and do funky stuff with the pushable ball, also when you mess with the ball it seems to desync it or smth)
 rotate seat (stackable)(from ▶ leautb) - person sitting on seat uses chair, person off of seat hits the person on the seat with chair
 laser gun weird shooting (from ▶ leautb) - after you use the rocket jumper (jumping and shooting the ground so you have smoke particles) you can shoot the laser gun in (probably) any position once before you have to do it again
 toy stealing (from ▶ leautb) - use buster gauntlets while at either the taiko drums or at time crisis 4 in the arcade
-slide decoy (from ▶ ruisudesu) - on top of slide, do still taunt or start fishing (only possible if the slide is next to water), slide down it, now you will appear to be at the bottom of the slide to others, if anyone interacts with you, you will teleport to the top of the slide, if you sit in a chair you will teleport to it for others, once you sit in a chair you are unable to sit in another one until you undo the taunt, once you undo the taunt you will appear to others that you teleport to wherever you are on your screen
-background change - method 1(from inside area you want): i'll (probably) come back and put these in some other time
-		  - method 2(from overworld): oh god how many versions have i put this off? imma have to ask ruisu how to do this again cause no way can i find the recording lmao
+slide desync (from ▶ ruisudesu) - on top of slide, do still taunt or start fishing (only possible if the slide is next to water), slide down it, now you will appear to be at the bottom of the slide to others, if anyone interacts with you, you will teleport to the top of the slide, if you sit in a chair you will teleport to it for others, once you sit in a chair you are unable to sit in another one until you undo the taunt, once you undo the taunt you will appear to others that you teleport to wherever you are on your screen
+skybox/filter change
+ - method 1(from inside area you want): i'll (probably) come back and put these in some other time
+ - method 2(from overworld): start swinging a pink sword in range of hitting someone then immediately go through the portal/door to the area you want the skybox of, if you managed to hit the person you will be pulled back into the main world with the new skybox and filter
 inu liftoff (from ▶ leautb) - lay on your back as inu sakuya and use the chair, you will fly upwards
 high control shrimp speed (from ▶ ruisudesu) - do shrimp speed glitch until you have the speed you want, then do the walking taunt (rod version) with a still taunt to have control over changing directions as if you were moving at a normal speed
 pipe bomb knockback deny - sitting quickly after being sent flying by a pipe bomb will stop you mid air, though you will still not be able to move for the remaining stun duration
-cabbage permanent ragdoll (couldnt replicate on 2024-05-18) - (inconsistent, will likely work 1/10 tries) eat cabbage, then sit right after dying
-controllable camera in menu - open any menu, open a second menu, close second menu
+controllable camera in menu (by @cinnikitty) - some menus, when you open them you can no longer move your camera or use items, if you close any other menu that has the same effect it stops this effect, so for example open taunt menu, then open and close inventory menu, you can now around and use items with taunt menu open, this applies the other way around too, list of menus that have this effect are: taunt, inventory, block player, day night settings, and credits (fastest is day night closing, you dont have to wait at all)(note how i didnt say the settings menu or fumo selection menu, those dont lock your camera and closing them similarly wont unlock your camera)
 low hover (from ▶ ruisudesu) - swim on to slope in the pool and go to the middle of the second lowest tile (you can go up or down the slope to adjust how high above the ground you hover), hold jump then equip hoverboard (using hoverboard while in the water has a possibiliy of sending you flying straight upwards, if this happens and you want to attempt to get back safely then unequip the board as soon as possible, then use the high hoverboard glitch to stop you from flying upwards and let yourself fall back into the main area, hopefully you will land in it and not beside it or on top of it)
-sit rocket (from ▶ leautb, taught by @marbs0) - shoot a rocket behind you, then quickly sit (you can make this easier by positioning the camera so the sit button is a bit behind you so you have less distance to move your mouse)(if you sit too early you wont be launched at all, and if you sit too late you will get launched then stop mid-air and fall down)
-seam walking (with @marbs0 and @yourmansenpai) (requires help) - use shiftlock in third person to find the seam between two solid objects (walls), get as close to the seam as you can and face it, then use rock paper scissors, if done correctly the person that interacts with you will end up between two walls, to bring a person into the seam while youre in the seam yourself is a bit more complicated (understatement of the century), if you simply rps while inside the seam, the person will end up stuck UNDER the wall instead of being inside the seam, so you need to be able to face along the seam while taunting, when you taunt it locks you facing that direction for others, so you have to be facing the correct direction when you active the taunt, the problem is that you cant click the taunt menu while shiftlocked or in first person (unless youre on mobile, rare mobile W), [got forced wrapped, continued on next line]                                                                                                      seam walking continued - the solution is to use ui navigation (toggled with \ and can be disabled as a feature in the settings, so check you that have it enabled if the keybind doesnt work),face the direction of the seam using either shiftlock or first person (shiftlock prefered since it lets you see through walls which lets you see what youre doing), toggle ui navigation on, use your wasd keys and enter to activate your rps taunt, the other person interacts with you and now youve left no ̶d̶w̶a̶r̶f fumo behind
+sit rocket (by ▶ leautb) - shoot a rocket behind you, then quickly sit (you can make this easier by positioning the camera so the sit button is a bit behind you so you have less distance to move your mouse)(if you sit too early you wont be launched at all, and if you sit too late you will get launched then stop mid-air and fall down)
+seam walking (by @cinnikitty, @marbs0, and @yourmansenpai) (requires help) - use shiftlock in third person to find the seam between two solid objects (walls), get as close to the seam as you can and face it, then use rock paper scissors, if done correctly the person that interacts with you will end up between two walls, to bring a person into the seam while youre in the seam yourself is a bit more complicated (understatement of the century), if you simply rps while inside the seam, the person will end up stuck UNDER the wall instead of being inside the seam, so you need to be able to face along the seam while taunting, when you taunt it locks you facing that direction for others, so you have to be facing the correct direction when you active the taunt, the problem is that you cant click the taunt menu while shiftlocked or in first person (unless youre on mobile, rare mobile W), [got forced wrapped, continued on next line]                                                                                       seam walking continued - the solution is to use ui navigation (toggled with \ and can be disabled as a feature in the settings, so check you that have it enabled if the keybind doesnt work),face the direction of the seam using either shiftlock or first person (shiftlock prefered since it lets you see through walls which lets you see what youre doing), toggle ui navigation on, use your wasd keys and enter to activate your rps taunt, the other person interacts with you and now youve left no ̶d̶w̶a̶r̶f fumo behind
 rocket clipping (from @anazook) - clip through objects under you by jumping as high as you can with the rocket jumper then sitting at the apex of the jump (just be sure the ground you clip into has an opening under it or youll just be stuck under the top layer of ground)
+tumble stuck in air (from @zapona7) - use any still taunt after being tumbled while in the air, if it worked you will be stuck in the air, some common methods for tumbling yourself are; hitting the wall tops in the bouncy castle, hitting a ramp/short wall with totsugeki (taunt wont activate for a bit after you attack so you have to time it late, also if you close backpack while taunt menu is open you can attack with taunt menu open)
+fry jump (by @Fum_orin) - you can jump off of the fries immediately after you drop them mid-air to do a mid-air jump
+dimensional ice cream (by @cinnikitty) - sit in a chair that is next a portal/door, eat ice cream until you freeze, go through portal, you will be teleported back to the side of the portal the chair was in, either giving you the area's sky box if done from main world or kicking you if done from within the dimension
+ice cream clipping (probably by @zapona7, they arent certain if it was them) - while performing slide desync, freeze yourself using ice-cream, you will be able to walk through walls for the duration of the freeze, the slide desync ends when you unfreeze
+force day/night in locked area - (from @zapona7): in some areas the time is always set to night or day and changing it in the options doesnt affect it, you can get around that by: reseting in the area you want to change (this keeps it loaded next time you enter it which stops your ui from disappearing), enter into the area again but after the circle is filled and you start to go through, change the time to what you desire (so the opposite of the area) and it will then be that time even if it should be in that area (areas that have locked times are: forest(night), this is a wip list)
 
 fishing rod glitches ###
 had to do it to em/goku drip pose - cast fishing rod, then unequip the rod as fast as you can
@@ -220,7 +222,7 @@ straight legs - equipping then unequipping fishing rod while sitting down will s
 invincibility - literally just hold the rod
 
 
-rod invincibility affects ==
+fishing rod invincibility affects ==
 works on -
 totsugeki
 chair
@@ -236,6 +238,10 @@ doesnt work on -
 pipe bomb
 snowballs
 
+no longer working glitches ###
+cabbage permanent ragdoll (couldnt replicate since 2024-05-18) (simply hasnt worked no matter how many times it has been attempted, likely broken from a roblox update since it has to do with respawn system) - (inconsistent, will likely work 1/10 tries) eat cabbage, then sit right after dying
+(emote is intented) walking emote (from ▶ leautb) (couldnt replicate since around 2024-12-29, need to check date, i know its wrong) (either the walking animation now starts at a lower speed now, you move slower in general, or moving taunts are faster which means you cant do this anywhere near as easily or everywhere anymore and also pink gun no longer does whatever the heck it did to the moving taunt before, most likely still possible to achieve with an analog stick thats barely moving you in the direction youre going without using any taunts, or a combo of the superspeed/jumpable emote and holding slightly back with analog stick to slow yourself down to barely moving, although you can still do this when sliding diagonally against a wall since youre slower) - moving taunt, unequip rod to break animation, hold laser gun or get stopped from moving by a wall, do an emote, turn on shiftlock (not required if using laser gun but needed for turning), hold s if done by walking into wall
+
 voice lines ▮▮▮▮
 
 specifics on how voice lines work ###
@@ -247,7 +253,7 @@ for example -
 aya can do chirp and ayaya at the same time
 marisa can NOT do ze~ and marisad at the same time
 urotsuki can NOT do any of their voicelines at the same time (no!, don't!, and stop it!)
-kyouko can do wann, awoo, and yahoo at the same time, and wann, awoo, and good morning at the same time, but NOT wann, awoo, yahoo, and good morning
+kyouko can do wann, awoo, and yahoo at the same time; and wann, awoo, and good morning at the same time; but NOT wann, awoo, yahoo, and good morning
 
 due to this, wannawoo isnt its own thing, its just a combination people use a lot and doesnt need to be included
 
@@ -271,6 +277,7 @@ kagerou, momiji - awoo/アウ
 kagerou, momiji - wan/ワン (wann to get around censor)
 ⬆ aunn, kyouko - wan/ワン
 ⬆⬆ inu sakuya - wan/ワン
+ghosts ==
 mima, tojiko, yuyuko - boo/ばあ
 ⬆ kogasa - boo/ばあ
 
@@ -351,6 +358,8 @@ tanya
 urumi wrangler marisa
 youkan
 
+honestly just go to this link https://befumowikien.miraheze.org/wiki/Characters and scroll down to exclusive characters because i only include characters ive seen myself which means i missed a lot of them
+
 non-badge special character voice lines ==
 amogus - amogus
 bernkastel - nipah/にぱ (jap version from @fomufan564)
@@ -415,6 +424,7 @@ buster gauntlets
 lightning
 trolldier kit
 murasama
+pipe bomb
 knife (madotsuki only)
 chainsaw (urotsuki only)
 snow balls (in whiterock village only)
@@ -456,14 +466,14 @@ imo difficulty from easiest to hardest badge to get - memento mori (no character
 links ▮▮▮▮
 the game itself - https://www.roblox.com/games/6238705697/Become-Fumo
 okuechi's twitter (creator of become fumo) - https://twitter.com/OkuechiRblx
-unofficial become fumo trello - https://trello.com/b/7ikbU9Um/unofficial-become-fumo-trello
+become fumo en wiki (miraheze, not fandom) - https://befumowikien.miraheze.org/wiki/Main_Page
 guide to all badges playlist (some badges have important info not in the playlist, check the badges section at the beginning of notes and tidbits section)(from ▶ FlameFlake) - https://www.youtube.com/watch?v=aHObGJLvcRM&list=PLmSWvMs5a_e2sEmuIC6SACWjotG_pVU2L
 become fumo voicelines (from ▶ Last Gen Conor) - https://www.youtube.com/watch?v=QqAjGXUmaVA
 introduction to touhou (from ▶ gaijin hunter) - https://www.youtube.com/watch?v=2cOuzIbxPOk
 all touhou characters (from ▶ Octo da Trupa) - https://www.youtube.com/watch?v=mxzytm_o_gg
 how to pronounce cirno (from ▶ Delta Pie) - https://www.youtube.com/watch?v=ikjoMarYlcE
 what gyates are (from ▶ Koischizo) - https://www.youtube.com/watch?v=A-nl3wXtx_I
-rich text markup (used to make most of copypaste text section) - https://create.roblox.com/docs/building-and-visuals/ui/rich-text - and - https://create.roblox.com/docs/reference/engine/enums/Font - and - https://create.roblox.com/docs/reference/engine/classes/UIStroke - and - https://www.google.com/search?q=color+picker
+rich text markup (used to make most of copypaste text section) - https://create.roblox.com/docs/ui/rich-text - and - https://create.roblox.com/docs/reference/engine/enums/Font - and - https://create.roblox.com/docs/reference/engine/classes/UIStroke - and - https://www.google.com/search?q=color+picker
 how and which unicode characters are recognized in roblox - https://create.roblox.com/docs/reference/engine/libraries/utf8 - and - https://www.w3schools.com/charsets/ref_html_utf8.asp
 
 referenced youtube channels ###
@@ -481,13 +491,15 @@ referenced youtube channels ###
 notes and tidbits ▮▮▮▮
 
 badges related ==
-WE NOW HAVE 100% CONFIRMATION ON HOW TO GET NIL BADGE BY OKUECHI HIMSELF. in ▶ GuardianZET's video "Join me. Become Fumo." Okuechi essentially gives him a tour around become fumo including telling him how to get every secret character, and at 22:16 okeuchi explains how to get nil badge (https://youtu.be/5HfMfw-9Nmo?si=Ni9Ze13uq_xyvjZm&t=1336). literally the only requirements is that you stand on top of the block and reset, you dont need to sit, time of day doesnt matter, no timing required, its just a 10% chance of it working
+(by @cinnikitty) WE NOW HAVE 100% CONFIRMATION ON HOW TO GET NIL BADGE BY OKUECHI HIMSELF. in ▶ GuardianZET's video "Join me. Become Fumo." Okuechi essentially gives him a tour around become fumo including telling him how to get every secret character, and at 22:16 okeuchi explains how to get nil badge (https://youtu.be/5HfMfw-9Nmo?si=Ni9Ze13uq_xyvjZm&t=1336). literally the only requirements is that you stand on top of the block and reset, you dont need to sit, time of day doesnt matter, no timing required, its just a 10% chance of it working
 the big crystal and the small crystal for the badges both make sounds when they appear and when they disappear (which can be used to tell where they spawn), also the spots for the crystal have changed from the video in the useful links
-there are many ways to get up to the main dreaming key platform including:
+there are many ways to get up to the main dreaming key platform including (in generally most viable at the top to least viable at the bottom order):
  - rocket jumper. use rocket jumper to jump up to the platform (very hard on mobile and can be difficult if you dont already know how to rocket jump)
- - pipe bomb. throw or have someone else throw a pipe bomb, stand next to the pipe bomb on the side that is facing the direction of the platform
- - totsugeki. 
- - 
+ - help via taunt. jump up to the top hole in the platform, have someone else that is more capable than you use any other method to get on top of the platform, then have them use any still taunt while above you (and facing away from the edge) so that you can teleport up to them by interacting with them
+ - totsugeki the smart way. jump up to the top hole in the platform, face the opposite corner of the platform, jump away from the platform then use totsugeki, totsugeki should give you enough height to clear the last jump and land on the platform
+ - pipe bomb. throw or have someone else throw a pipe bomb, stand next to the pipe bomb on the side that is facing the direction of the platform, then sit when you are above the platform to stop your momentum and fall onto it
+ - sit jump skill issue simulator. use sit jump glitch for the last jump at the top of the holes on the platform (pretty dang hard and annoying)
+ - totsugeki the dumb way. 
  - 
 
 glitch related ==
@@ -506,7 +518,6 @@ stealing the taiko sticks with the toy stealing glitch makes it easy to see the 
 the rotate seat glitch is what is used to mess up the train, unfortunately however, unlike normal seats which can be returned to normal by doing the glitch 4 times in total, the train cant be fixed because it rotates the path around you/the seat rather than around the center of the path, making it basically impossible to fix the train once broken.
 
 item related ==
-backspace can be used to unequip items
 (from @Endercreeper990) pipe bombs work on taunting players, can hit people through walls, and have wide enough range to hit people on top of a tree if thrown under it
 you can turn your giga sword into a knife in two different ways including:
  - method 1 have someone leave after youve hit them with the sword (during the part in the animation where the sword is a knife), it resets next time you hit someone with that sword, also you get stuck when you do this so you need something to unstuck yourself which include, gloves (unable to jump), any moving emote (fixes fully), fishing rod, ice cream, or getting hit (fixes fully)
@@ -514,8 +525,7 @@ you can turn your giga sword into a knife in two different ways including:
 it takes 5 ice cream eats to get frozen, but seems to usually take longer to let you eat ice cream again if you click while it's on cooldown (similar to roblox chat spam protection), which will make it nearly impossible to get frozen unless you time it to click once it's off cooldown
 you can only shoot the laser gun once while sitting, you have to re-sit to shoot it again1
 bike is useful for telling how close you are to the edge of something/if you will fall off, just turn sideways and you have a line down the middle of you
-the maximum amount of items you can carry is 20
-hitting a wall with the murasama can very often flip you directly updside down
+hitting a wall with the murasama will flip you upside down
 
 location related ==
 there are 2 holes in the invisible barrier in whiterock village, one on top of the hill surrounding the village at the top left side (if the looked at from above with the entrance at the bottom), and one big one in the sky cause the barrier only goes up so far
@@ -535,7 +545,8 @@ you can get under a lot of tables by moving taunting into the side of the table 
 you can layer people inside eachother and make a la creatura by sitting on a seat then pressing the sit button twice (make sure antigrief is off)
 you can also layer people inside eachother anywhere with some help by having one person stand still and do a still taunt over and over so the people that interact with them get put in the same spot
 bong bong, eiki, remilia, and yoshika all have unusual skin colors
-you can say /c system to talk in a muted chat, which lets you do commands silently(this works on all of roblox), i learned this when i played kohls admin house as a kid since the game was all about using commands (though people in that game were able to see your commands with /log and also you probably shouldnt play that game anymore cause its extremely out of date and probably vulneranble hacks that can harm your account)
+you can say /c system (then send it) to talk in a muted chat, which lets you do commands silently(this works on all of roblox), i learned this when i played kohls admin house as a kid since the game was all about using commands (though people in that game were able to see your commands with /log and also you probably shouldnt play that game anymore cause its extremely out of date and probably vulneranble hacks that can harm your account)
+you can also say /w [start typing name of person] (it works immediately after it detects the name) to start a dm with someone without having to click their name in chat
 there have been 3 times okuechi has given out santa nero that i know of, once in christmas 2021 (i wasnt there for it but heard of it later), once right after the update that addeed the bisexual flag colors dimension (i was there and , 
 
 fumo notes(this) is made by cinnikitty with help from the become fumo community
